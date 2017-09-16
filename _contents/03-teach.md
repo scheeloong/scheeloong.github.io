@@ -8,12 +8,11 @@ image: ""
 
 Teaching Assistant 
 
-* CSC207
-    * [TensorFlow](https://www.tensorflow.org/) (probably has the most relevant software for this course)
+* [CSC207](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml)
+    * [TensorFlow]
 * MIE250
-    * [TensorFlow](https://www.tensorflow.org/) (probably has the most relevant software for this course)
+    * [TensorFlow](https://www.tensorflow.org/) 
 
 Online Courses
 
-* SoonTeachDeepLearning
-    * [TensorFlow](https://scheeloong.github.io/SoonTeachDeepLearning) 
+* [SoonTeachDeepLearning](https://scheeloong.github.io/SoonTeachDeepLearning)  (TODO)
