@@ -1,0 +1,18 @@
+#theme: jekyll-theme-slate
+title: Soon Chee Loong Website
+description: About Soon Chee Loong
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - contents
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+
+
+theme: jekyll-theme-minimal
