@@ -9,9 +9,7 @@ image: ""
 Teaching Assistant 
 
 * [CSC207](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml)
-    * [TensorFlow]
-* MIE250
-    * [TensorFlow](https://www.tensorflow.org/) 
+* [MIE250](https://github.com/MIE250-2017)
 
 Online Courses
 
