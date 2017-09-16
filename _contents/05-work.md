@@ -2,20 +2,20 @@
 id: work
 name: Work
 heading: Work
-subheading: Work&#58;
+subheading: Work Experience&#58;
 image: ""
 ---
 
-# Work Experience 
+# Software Engineering Intern
 
-* Software Engineering Intern, Google
+* Google
     * Concurrency
     * C++
 
-* Software Engineering Intern, Salesforce
+* Salesforce
     * Distributed Systems
     * Java
 
-* Software Engineering Intern, Intel
+* Intel
     * Web Programming
     * Python
