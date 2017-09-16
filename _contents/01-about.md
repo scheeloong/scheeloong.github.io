@@ -28,6 +28,6 @@ During my undergraduate, I have done Software Engineering Internships at Google,
 
 Published a [paper](https://link.springer.com/article/10.1007/s10601-016-9238-x) under the supervision of [Professor Christopher Beck](https://www.mie.utoronto.ca/mie/faculty/beck).
 
-I also did my 4th year research capstone project with 2 teammates under the supervision of [Professor Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/).
+Final year research group capstone project under the supervision of [Professor Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/).
 
 More information on my projects in undergraduate [here](www.sooncheeloong.com).
