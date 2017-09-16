@@ -6,4 +6,6 @@ subheading: Research&#58;
 image: ""
 ---
 
-I am a researcher
+I am a researcher. My research interest is Recommendation Systems
+
+# Journals
