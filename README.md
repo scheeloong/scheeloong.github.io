@@ -2,8 +2,15 @@
 Website
 
 sudo gem install jekyll
+
 sudo gem install bundler
+
 jekyll new sitename
+
 cd sitename
+
 sudo bundle install
-jekyll serve
+
+sudo gem install whateverthatisingemfile
+
+sudo jekyll serve
