@@ -10,20 +10,5 @@ image: ""
 
 **Email:** cheeloong.soonatmaildotutorontodotca 
 
-
-### Background 
-
-BASc Computer Engineering
-
-MASc Computer 
-
-### Expertise
-
-* Probability
-
-* Real Analysis 
-
-### Courses
-
-* [ECE521, Inference Algorithms and Machine Learning](https://ece521.github.io/)
-
+**Undergraduate:**  BASc Computer Engineering
+**Current:**  MASc Industrial Engineering (Deep Learning approaches to Recommendation Systems)

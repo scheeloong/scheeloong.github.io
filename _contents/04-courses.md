@@ -11,6 +11,11 @@ Courses
     * [Assignment1]('#')
     * [Assignment2]('#')
     * [Assignment3]('#')
+* [CS224d]
 * [CS229]
     * [Assignment1]('#')
-
+* [ECE521, Inference Algorithms and Machine Learning](https://ece521.github.io/)
+    * [Assignment1]('#')
+    * [Assignment2]('#')
+    * [Assignment3]('#')
+    * [Assignment4]('#')
