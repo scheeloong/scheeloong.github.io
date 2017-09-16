@@ -8,8 +8,8 @@ image: ""
 
 # Teaching Assistant 
 
-* [CSC207](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml)
-* [MIE250](https://github.com/MIE250-2017)
+* [CSC207: Software Design](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml)
+* [MIE250: Fundamentals of Object Oriented Programming](https://github.com/MIE250-2017)
 
 # Online Courses
 
