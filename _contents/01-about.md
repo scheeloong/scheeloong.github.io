@@ -16,15 +16,17 @@ image: ""
 
 **Graduate:**  MASc Industrial Engineering (Deep Learning approaches to Recommendation Systems) 2019 (expected)
 
-
 # About
 
 I am a first year MASc (Masters of Applied Science, research-based) student at the University of Toronto.
 
-As part of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/),
-
-I research deep models for recommendation systems  under the supervision of of [Professor Scott Sanner](http://d3m.mie.utoronto.ca/members/ssanner/).
+My work at the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/).
 
 # Undergraduate 
-During my undergraduate, I have done Software Engineering Internships at Google New York, Salesforce Vancouver, Intel San Jose. Published a [paper](https://link.springer.com/article/10.1007/s10601-016-9238-x) under the supervision of [Professor Christopher Beck](https://www.mie.utoronto.ca/mie/faculty/beck). I also did my 4th year research capstone project with 2 teammates under the supervision of [Professor Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/).
+During my undergraduate, I have done Software Engineering Internships at Google, Salesforce, Intel. 
+
+Published a [paper](https://link.springer.com/article/10.1007/s10601-016-9238-x) under the supervision of [Professor Christopher Beck](https://www.mie.utoronto.ca/mie/faculty/beck).
+
+I also did my 4th year research capstone project with 2 teammates under the supervision of [Professor Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/).
+
 More information on my projects in undergraduate [here](www.sooncheeloong.com).
