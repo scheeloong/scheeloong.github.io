@@ -19,9 +19,6 @@ image: ""
     </tr>
     <tr>
         <td>
-            9/15
-        </td>
-        <td>
             Overview
         </td>
         <td>
@@ -58,17 +55,6 @@ image: ""
                 <li><a href="http://proceedings.mlr.press/v28/wilson13.pdf">Wilson and Adams, 2013. Gaussian process kernels for pattern discovery and extrapolation</a></li>
                 <li><a href="http://proceedings.mlr.press/v28/duvenaud13.pdf">Duvenaud et al., 2013. Structure discovery in nonparametric regression through compositional kernel search</a></li>
             </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            12/10
-        </td>
-        <td>
-            Project reports due
-        </td>
-        <td>
-            Send by e-mail to csc2541-submit at cs dot toronto dot edu. Include "CSC2541 Final Report" in subject line.
         </td>
     </tr>
 </table>
