@@ -1,7 +1,7 @@
 ---
 id: work
-name: work
-heading: work
+name: Work
+heading: Work
 subheading: Work&#58;
 image: ""
 ---
