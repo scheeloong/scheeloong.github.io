@@ -14,3 +14,5 @@ sudo bundle install
 sudo gem install whateverthatisingemfile
 
 sudo jekyll serve
+
+sudo bundle exec jekyll serve
