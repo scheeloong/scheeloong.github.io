@@ -11,4 +11,5 @@ image: ""
 **Email:** cheeloong.soonatmaildotutorontodotca 
 
 **Undergraduate:**  BASc Computer Engineering
-**Current:**  MASc Industrial Engineering (Deep Learning approaches to Recommendation Systems)
+
+**Graduate:**  MASc Industrial Engineering (Deep Learning approaches to Recommendation Systems)
