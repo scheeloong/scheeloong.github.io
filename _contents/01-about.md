@@ -3,8 +3,8 @@ id: about
 name: About
 heading: About Me
 subheading: About Me&#58; 
-image: ""
 ---
+<img src="images/pic.png" alt="hi" class="inline"/>
 
 # Education 
 
