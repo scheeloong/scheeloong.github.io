@@ -14,3 +14,4 @@ image: ""
 # Online Courses
 
 * [SoonTeachDeepLearning](https://scheeloong.github.io/SoonTeachDeepLearning)  (TODO)
+* [SoonTeachResearch](https://scheeloong.github.io/SoonTeachResearch)  (TODO)
