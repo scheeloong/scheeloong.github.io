@@ -15,7 +15,8 @@ image: ""
 **Undergraduate:**  BASc Computer Engineering 2017
 
 **Graduate:**  MASc Industrial Engineering 2019 (expected)
-    * Deep Learning approaches to Recommendation Systems
+
+* Deep Learning approaches to Recommendation Systems
 
 # About
 
