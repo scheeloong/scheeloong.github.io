@@ -6,7 +6,7 @@ subheading: Research&#58;
 image: ""
 ---
 
-I research deep models for recommendation systems  under the supervision of of [Professor Scott Sanner](http://d3m.mie.utoronto.ca/members/ssanner/).
+I research deep models for recommendation systems  under the supervision of [Professor Scott Sanner](http://d3m.mie.utoronto.ca/members/ssanner/).
 
 # Journals
 
