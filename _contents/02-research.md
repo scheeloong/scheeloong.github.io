@@ -28,7 +28,7 @@ Exploration-Exploitation Tradeoff:
 
 Active Learning:
     During the exploration phase, which items do I recommend
-    to learn about a user or an item with less samples? 
+    that allows me to learn more about a user or item?
 
 Offline Evaluation: 
     Training Reinforcement Learning on games are feasible, you can simulate physics laws on a computer.
