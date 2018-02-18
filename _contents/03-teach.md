@@ -5,11 +5,6 @@ heading: Teach
 subheading: Teach&#58;
 image: ""
 ---
-# Tutoring
-If you are currently a student at the University of Toronto interested in learning about 
-Machine Learning (basics, Deep Learning, Probabilistic Graphical Models) or Recommender Systems. Email me. 
-I enjoy teaching things that I am passionate about. 
-
 # Teaching Assistant 
 
 * [CSC207: Software Design](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml)
