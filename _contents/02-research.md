@@ -24,7 +24,6 @@ Imbalanced:
 
 Exploration-Exploitation Tradeoff:
     Deciding whether to recommend popular items (exploitation) or rare items (exploration).
-    Recommending rare items allows us to learn more about a user's personal preference and 
 
 Active Learning:
     During the exploration phase, which items do I recommend
