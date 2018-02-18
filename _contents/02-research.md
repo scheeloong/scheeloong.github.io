@@ -8,24 +8,32 @@ image: ""
 
 I research deep sequential imbalanced learning for recommender systems  under the supervision of [Professor Scott Sanner](http://d3m.mie.utoronto.ca/members/ssanner/).
 
-Imbalanced:
-Recommendation datasets are imbalanced. Popular items gets more attention, causing a positive feedback loop of 
-recommending these popular items. How do we train and evaluate Deep models to learn both popular and unpopular items
-well? 
-
 Deep:
-Using Deep Learning models to solve Recommender Systems.
+    Use Deep Learning models to solve Recommender Systems.
 
 Sequential:
-Focusing on sequential recommendation problems. The recommendations are given in a form of a sequence. (e.g. Netflix, Spotify, Tinder)
+    Focusing on sequential recommendation problems.
+    The recommendation interactions with a user occurs in the form of a sequence.
+    e.g. Netflix, Spotify, Tinder
+
+Imbalanced:
+    Recommendation datasets are imbalanced.
+    Popular items gets more attention, causing a positive feedback loop of traditional recommendation systems
+    to recommend these items. How do we train and evaluate Deep models to learn both popular and unpopular items
+    well? 
 
 Exploration-Exploitation Tradeoff:
-Deciding whether to recommend popular items (exploitation) or rare items for learning personalized user preference and gather data for rare items.
+    Deciding whether to recommend popular items (exploitation) or rare items (exploration).
+    Recommending rare items allows us to learn more about a user's personal preference and 
 
-Active Learning: During the exploration phase, which items do I recommend? 
+Active Learning:
+    During the exploration phase, which items do I recommend
+    to learn about a user or an item with less samples? 
 
 Offline Evaluation: 
-Training Reinforcement Learning on games are feasible, you can simulate physics laws on a computer. How do you simulate user purchase behavior if we do not yet know how the human brain works? 
+    Training Reinforcement Learning on games are feasible, you can simulate physics laws on a computer.
+    How do you simulate user purchase behavior if we do not yet know how the human brain works?
+    The current alternative of online evaluations on real users is expensive.
 
 My general research interests are: 
 Deep Learning, Reinforcement Learning, POMDP, MDP, Bayesian Learning, Probabilistic Graphical Models, Mathematical Optimization, Information Theory.
