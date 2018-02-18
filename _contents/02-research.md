@@ -18,7 +18,7 @@ Sequential:
 
 Imbalanced:
     Recommendation datasets are imbalanced.
-    Popular items gets more attention, causing a positive feedback loop of traditional recommendation systems
+    Popular items gets more attention, causing a positive feedback loop by traditional recommendation systems
     to recommend these items. How do we train and evaluate Deep models to learn both popular and unpopular items
     well? 
 
