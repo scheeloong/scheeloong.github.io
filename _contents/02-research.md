@@ -6,7 +6,7 @@ subheading: Research&#58;
 image: ""
 ---
 
-I research deep sequential imbalanced learning for recommender systems  under the supervision of [Professor Scott Sanner](http://d3m.mie.utoronto.ca/members/ssanner/).
+I research Deep Sequential Imbalanced Active learning for recommender systems  under the supervision of [Professor Scott Sanner](http://d3m.mie.utoronto.ca/members/ssanner/).
 
 Deep:
     Use Deep Learning models to solve Recommender Systems.
