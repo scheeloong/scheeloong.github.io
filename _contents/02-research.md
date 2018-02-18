@@ -35,7 +35,7 @@ Offline Evaluation:
     The current alternative of online evaluations on real users is expensive.
 
 My general research interests are: 
-Deep Learning, Reinforcement Learning, POMDP, MDP, Bayesian Learning, Probabilistic Graphical Models, Mathematical Optimization, Information Theory.
+Deep Learning, Reinforcement Learning, POMDP, MDP, Bayesian Inference, Probabilistic Graphical Models, Mathematical Optimization, Information Theory.
 
 # Journals
 
