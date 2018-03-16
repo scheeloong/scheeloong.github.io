@@ -24,7 +24,7 @@ I am a first year MASc (Masters of Applied Science, research-based) student at t
 
 I am a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/).
 
-I believe our intelligent ability to learn and adapt is important for survivability. 
+I am curious about our intelligent ability to learn.
 
 I am passionate about Artificial Intelligence, specifically Machine Learning, as it helps me understand how learning works.
 
