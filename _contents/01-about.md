@@ -16,7 +16,7 @@ subheading: About Me&#58;
 
 **Graduate:**  MASc Industrial Engineering 2019 (expected)
 
-* Deep Learning approaches to Recommendation Systems
+* Bayesian Deep Learning approaches to Recommendation Systems
 
 # About
 
