@@ -7,7 +7,8 @@ image: ""
 ---
 # Teaching Assistant 
 
-* [CSC207: Software Design](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml)
+Median Rating: 5.0/5.0 (60 anonymous student surveys)
+* [CSC207: Software Design](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml) 
 * [MIE250: Fundamentals of Object Oriented Programming](https://github.com/MIE250-2017)
 
 <!--
