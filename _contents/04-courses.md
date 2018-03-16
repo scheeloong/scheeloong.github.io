@@ -9,7 +9,3 @@ image: ""
 Courses 
 * [ECE521, Inference Algorithms and Machine Learning](https://ece521.github.io/)
     * Final Grade: 91% 
-    * [Assignment1]('#')
-    * [Assignment2]('#')
-    * [Assignment3]('#')
-    * [Assignment4]('#')
