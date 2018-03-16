@@ -28,8 +28,6 @@ I believe our intelligent ability to learn and adapt is important for survivabil
 
 I am passionate about Artificial Intelligence, specifically Machine Learning, as it helps me understand how learning works.
 
-My hobbies include reading, thinking, writing, teaching, and researching.
-
 I enjoy working with math and code. 
 
 # Undergraduate 

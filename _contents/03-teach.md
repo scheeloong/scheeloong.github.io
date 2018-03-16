@@ -7,7 +7,7 @@ image: ""
 ---
 # Teaching Assistant 
 
-Median Rating: 5.0/5.0 (60 anonymous student surveys)
+Median Rating: 5.0/5.0 (60 anonymous student surveys) => Mode Rating = 5.0
 * [CSC207: Software Design](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml) 
 * [MIE250: Fundamentals of Object Oriented Programming](https://github.com/MIE250-2017)
 
