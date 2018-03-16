@@ -24,7 +24,16 @@ I am a first year MASc (Masters of Applied Science, research-based) student at t
 
 I am a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/).
 
+I believe our intelligent ability to learn and adapt is important for survivability. 
+
+I am passionate about Artificial Intelligence, specifically Machine Learning, as it helps me understand how learning works.
+
+My hobbies include reading, thinking, writing, teaching, and researching.
+
+I enjoy working with math and code. 
+
 # Undergraduate 
+
 During my undergraduate, I have done Software Engineering Internships at Google, Salesforce, Intel. 
 
 Published a [paper](https://link.springer.com/article/10.1007/s10601-016-9238-x) under the supervision of [Professor Christopher Beck](https://www.mie.utoronto.ca/mie/faculty/beck).
