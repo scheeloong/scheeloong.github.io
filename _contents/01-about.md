@@ -28,7 +28,7 @@ I am curious about our intelligent ability to learn.
 
 I am passionate about Artificial Intelligence, specifically Machine Learning, as it helps me understand how learning works.
 
-I enjoy working with math and code. 
+I enjoy working with applied math and code. 
 
 # Undergraduate 
 
