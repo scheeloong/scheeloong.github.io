@@ -30,6 +30,8 @@ I am passionate about Artificial Intelligence, specifically Machine Learning, as
 
 I enjoy working with applied math and code. 
 
+* [Statement Of Purpose MASc](./pdf/statementOfPurposeUofTMIE.pdf)
+
 # Undergraduate 
 
 During my undergraduate, I have done Software Engineering Internships at Google, Salesforce, Intel. 
