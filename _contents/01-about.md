@@ -28,6 +28,15 @@ I am curious about our intelligent ability to learn.
 
 I am passionate about Artificial Intelligence, specifically Machine Learning, as it helps me understand how learning works.
 
+For instance, how do we model:
+* Learning: How do we train a model to learn? Ideas from Optimization, Sampling, Variational Inference
+* Inference: How do we do inference based on what we know? Ideas from Probabilistic Graphical Models 
+* Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes.
+* Rewards: How do we learn by rewards and punishment? Ideas from Animal Learning to Reinforcement Learning:w 
+* Information: ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution.
+* Memory: How do we remember information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
+* Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? 
+
 I enjoy working with applied math and code. 
 
 * [Statement Of Purpose](./pdf/statementOfPurposeUofTMIE.pdf)
