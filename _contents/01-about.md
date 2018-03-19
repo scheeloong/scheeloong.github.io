@@ -34,6 +34,7 @@ For instance, how do we model:
 * Inference: How do we calculate probability of events given evidences? Ideas from Probabilistic Graphical Models.
 * Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes.
 * Information: ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution.
+* Uncertainty: How do we know if a model is uncertain in its predictions?
 * Signal Processing: How do we decide if an input is useful information or noise? Ideas from Signal Detection Theory.
 * Memory: How do we remember information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
