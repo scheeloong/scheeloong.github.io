@@ -50,6 +50,7 @@ Machine Learning research can be broken down into 4 steps:
 * Step 4: Evaluation. How do we evaluate how well this model has learnt and execute its potential abilities ?
 
 Machine Learning Models: (not mutually exclusive)
+* Nearest Neighbour: Cluster anything similar.
 * Kernel Machines, Support Vector Machines: Being as far away from decision boundary as possible.
 * Deep Learning, NN, CNN, RNN: Fire when you detect a useful signal.
 * Reinforcement Learning: Learning from delayed feedback while planning.
