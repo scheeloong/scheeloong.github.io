@@ -68,6 +68,7 @@ Machine Learning Applications:
 * Question Answering: Answer questions from customers.
 * Image Segmentation: Amazon Go
 * Object Detection: Amazon Go
+* Face Detection: Facebook, Snapchat
 * Style Transfer: Painting
 * Anomaly Detection: NSA (jokes), Fraud Detection
 * Game Playing: Google DeepMind 
