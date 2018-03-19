@@ -11,11 +11,12 @@ I am curious about our intelligent ability to learn.
 
 Artificial Intelligence Branches:
 * Machine Learning: How do machines learn?
+* Evolutionary Intelligence: Natural Selection of machines
 * Swarm Intelligence: How do machines learn as a society of groups?
 * Natural Language Processing: How do machines read? 
 * Computer Vision: How do machines see?
 * Speech Processing: How do machines hear?
-* Robotics: How do machines move? 
+* Robotics: How do machines move? How do machines know localize to know where it is in the world?
 * Constraint Satisfaction Problem: How do machines plan? 
 * Knowledge Representation: How do machines represent knowledge and logically reason from it? 
 * Computer Graphics: Realistic simulations for machines.
@@ -57,6 +58,19 @@ Machine Learning Models: (not mutually exclusive)
 * Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference.
 * Bayesian Nonparametrics, Gaussian Processes: Model complexity grows with data
 * Mixture Models: Symptoms and Observations
+
+Machine Learning Applications:
+* Information Retrieval: Google, Yahoo, Search Engines
+* Recommender Systems: Amazon, Netflix, Spotify
+* Self-Driving Cars(includes Robotics + Computer Vision): Uber
+* Bioinformatics: Medical Diagnosis
+* Machine Translation: Translate Mandarin to English
+* Question Answering: Answer questions from customers.
+* Image Segmentation: Amazon Go
+* Object Detection: Amazon Go
+* Style Transfer: Painting
+* Anomaly Detection: NSA (jokes), Fraud Detection
+* Game Playing: Google DeepMind 
 
 I enjoy working with applied math and code. 
 
