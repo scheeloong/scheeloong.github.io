@@ -14,7 +14,7 @@ I am passionate about Artificial Intelligence, especially Machine Learning, as i
 For instance, how do we model:
 * Instantaneous Learning: How do we train a model to learn from correct examples? Ideas from Mathematical Optimization, Sampling, Variational Inference
 * Delayed Learning: How do we learn by rewards and punishment? Ideas from Animal Learning, Reinforcement Learning
-* Credit Assignment: After we finally succeed, how do we assign credit to which path along our success was more responsible for our success? 
+* Credit Assignment: After we finally succeed, how do we assign credit to which path along our success was more important for our success? 
 * Inference: How do we calculate probability of events given evidences? Ideas from Probabilistic Graphical Models.
 * Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes, Decision Trees.
 * Information: ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution.
