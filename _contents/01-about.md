@@ -37,8 +37,7 @@ For instance, how do we model:
 * Signal Processing: How do we decide if an input is useful information or noise? Ideas from Signal Detection Theory.
 * Memory: How do we remember information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? 
-** Image Segmentation: Filtering noise
-* Active Learning: The idea of deciding what to learn, since it's impossible to learn everything.
+* Active Learning: Idea of deciding what to learn, since it's impossible to learn everything.
 
 I enjoy working with applied math and code. 
 
