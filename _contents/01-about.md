@@ -51,7 +51,7 @@ Machine Learning research can be broken down into 4 steps:
 * Step 1: What is the problem? What is the type of data we are working with?
 * Step 2: Modelling. What model should we use? What are the potential abilities of this model? 
 * Step 3: How do we feasible train the model given our data?
-* Step 4: Evaluation. How do we evaluate how well this model has learnt and achieve its potential abilities of this model?
+* Step 4: Evaluation. How do we evaluate how well this model has learnt and excute its potential abilities ?
 
 I enjoy working with applied math and code. 
 
