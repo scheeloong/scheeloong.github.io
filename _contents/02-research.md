@@ -19,7 +19,7 @@ Artificial Intelligence Branches:
 * Robotics: How do machines move? How do machines know localize to know where it is in the world?
 * Constraint Satisfaction Problem: How do machines plan? 
 * Knowledge Representation: How do machines represent knowledge and logically reason from it? 
-* Computer Graphics: Realistic simulations for machines.
+* Computer Graphics: How do machines imagine? Inverse of Computer Vision (opposite of seeing)
 
 I am passionate about Artificial Intelligence, especially Machine Learning, as it helps me understand how learning works.
 
