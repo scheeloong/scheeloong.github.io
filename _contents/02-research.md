@@ -24,7 +24,7 @@ For instance, how do we model:
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
 * Active Learning: Actively deciding what to learn, since it's impossible to learn everything.
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
-* Transfer Learning: How do we transfer the useful learnt information from one model to another? 
+* Transfer Learning: How do we transfer useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
 * Few Shot Learning: How do we learn from as few examples as possible? 
 * Exploration vs Exhaustation: How do we decide if we should explore other decisions or dive into ones we already know?
