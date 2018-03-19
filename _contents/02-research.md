@@ -16,13 +16,13 @@ For instance, how do we model:
 * Delayed Learning: How do we learn by rewards and punishment? Ideas from Animal Learning, Reinforcement Learning
 * Credit Assignment: After we finally succeed, how do we assign credit to which path along our success was more responsible for our success? 
 * Inference: How do we calculate probability of events given evidences? Ideas from Probabilistic Graphical Models.
-* Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes.
+* Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes, Decision Trees.
 * Information: ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution.
 * Uncertainty: How do we know if a model is uncertain in its predictions?
 * Signal Processing: How do we decide if an input or data is useful information or noise? Ideas from Signal Detection Theory.
 * Memory: How do we remember information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
-* Active Learning: Idea of deciding what to learn, since it's impossible to learn everything.
+* Active Learning: Idea of actively deciding what to learn, since it's impossible to learn everything.
 * Curriculum Learning: Idea creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer the useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
@@ -37,6 +37,14 @@ Machine Learning research can be broken down into 4 steps:
 * Step 2: Modelling. What model should we use? What are the potential abilities of this model? 
 * Step 3: How do we feasible train the model given our data?
 * Step 4: Evaluation. How do we evaluate how well this model has learnt and excute its potential abilities ?
+
+Machine Learning Models: (not mutually exclusive)
+* Kernel Machines, Support Vector Machines: Being as far away from decision boundary as possible.
+* Deep Learning, NN, CNN, RNN: Fire when you detect a useful signal.
+* Reinforcement Learning: Learning from delayed feedback while planning.
+* Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference.
+* Bayesian Nonparametrics, Gaussian Processes: Model complexity grows with data
+* Mixture Models: Symptoms and Observations
 
 I enjoy working with applied math and code. 
 
