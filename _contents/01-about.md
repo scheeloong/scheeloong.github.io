@@ -29,15 +29,19 @@ I am curious about our intelligent ability to learn.
 I am passionate about Artificial Intelligence, especially Machine Learning, as it helps me understand how learning works.
 
 For instance, how do we model:
-* Learning: How do we train a model to learn? Ideas from Optimization, Sampling, Variational Inference
-* Inference: How do we do inference based on what we know? Ideas from Probabilistic Graphical Models 
+* Instantaneous Learning: How do we train a model to learn from correct examples? Ideas from Optimization, Sampling, Variational Inference
+* Delayed Learning: How do we learn by rewards and punishment? Ideas from Animal Learning to Reinforcement Learning
+* Inference: How do we calculate probability of events given evidences? Ideas from Probabilistic Graphical Models.
 * Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes.
-* Rewards: How do we learn by rewards and punishment? Ideas from Animal Learning to Reinforcement Learning
 * Information: ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution.
 * Signal Processing: How do we decide if an input is useful information or noise? Ideas from Signal Detection Theory.
 * Memory: How do we remember information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? 
 * Active Learning: Idea of deciding what to learn, since it's impossible to learn everything.
+* Transfer Learning: How do we transfer the useful learnt information from one model to another? 
+* Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
+* Few Shot Learning: How do we learn from as few examples as possible? 
+* Exploration vs Exhaustation: How do we decide if we should explore other decisions or dive into ones we already know?
 
 I enjoy working with applied math and code. 
 
