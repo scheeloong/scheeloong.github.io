@@ -9,6 +9,17 @@ image: ""
 
 I am curious about our intelligent ability to learn.
 
+Artificial Intelligence Branches:
+* Machine Learning: How do machines learn?
+* Swarm Intelligence: How do machines learn as a society of groups?
+* Natural Language Processing: How do machines read? 
+* Computer Vision: How do machines see?
+* Speech Processing: How do machines hear?
+* Robotics: How do machines move? 
+* Constraint Satisfaction Problem: How do machines plan? 
+* Knowledge Representation: How do machines represent knowledge and logically reason from it? 
+* Computer Graphics: Realistic simulations for machines.
+
 I am passionate about Artificial Intelligence, especially Machine Learning, as it helps me understand how learning works.
 
 For instance, how do we model:
