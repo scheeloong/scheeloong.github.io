@@ -29,6 +29,7 @@ For instance, how do we model:
 * Exploration vs Exhaustation: How do we decide if we should explore other decisions or dive into ones we already know?
 * Semi-Supervised Learning: How do we learn about the population given a sample? 
 * Imbalanced Learning: How do we learn about rare labels when our dataset is imbalanced? 
+* Generative Learning: How do we learn to generate realistic data? 
 
 Machine Learning research can be broken down into 4 steps: 
 * Step 1: What is the problem? What is the type of data we are working with?
