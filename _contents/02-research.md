@@ -22,8 +22,8 @@ For instance, how do we model:
 * Signal Processing: How do we decide if an input or data is useful information or noise? Ideas from Signal Detection Theory.
 * Memory: How do we remember information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
-* Active Learning: Idea of actively deciding what to learn, since it's impossible to learn everything.
-* Curriculum Learning: Idea creating a learning syllabus so that the model learns from easy to hard problems.
+* Active Learning: Actively deciding what to learn, since it's impossible to learn everything.
+* Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer the useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
 * Few Shot Learning: How do we learn from as few examples as possible? 
