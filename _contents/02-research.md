@@ -29,7 +29,7 @@ For instance, how do we model:
 * Credit Assignment: After we finally succeed, how do we assign credit to which path along our success was more important for our success? 
 * Inference: How do we calculate probability of events given evidences? Ideas from Probabilistic Graphical Models.
 * Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes, Decision Trees.
-* Information: How do we calculate how much information we have gathered or could gather? Ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution.
+* Information: How do we calculate how much information we have gathered or could gather? Ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution, expected improvement.
 * Uncertainty: How do we know if a model is uncertain in its predictions?
 * Signal Processing: How do we decide if an input or data is useful information or noise? Ideas from Signal Detection Theory.
 * Memory: How do we remember or forget information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
