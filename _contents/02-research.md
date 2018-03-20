@@ -16,7 +16,7 @@ Artificial Intelligence Branches:
 * Natural Language Processing: How do machines read? 
 * Computer Vision: How do machines see?
 * Speech Processing: How do machines hear?
-* Robotics: How do machines move? How do machines know localize to know where it is in the world?
+* Robotics: How do machines move? How do machines localize itself to know where it is in the world?
 * Constraint Satisfaction Problem: How do machines plan? 
 * Knowledge Representation: How do machines represent knowledge and logically reason from it? 
 * Computer Graphics: How do machines imagine? Inverse of Computer Vision (opposite of seeing)
