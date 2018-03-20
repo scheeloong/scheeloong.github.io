@@ -62,7 +62,7 @@ Machine Learning Models: (not mutually exclusive)
 Machine Learning Applications:
 * Information Retrieval: Google, Yahoo, Search Engines
 * Recommender Systems: Amazon, Netflix, Spotify
-* Self-Driving Cars(includes Robotics + Computer Vision): Uber
+* Self-Driving Cars(includes Robotics + Computer Vision): Uber, Waymo
 * Bioinformatics: Medical Diagnosis
 * Machine Translation: Translate Mandarin to English
 * Question Answering: Answer questions from customers.
