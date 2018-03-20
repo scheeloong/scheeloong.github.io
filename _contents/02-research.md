@@ -71,7 +71,7 @@ Machine Learning Applications:
 * Face Detection: Facebook, Snapchat
 * Style Transfer: Painting
 * Anomaly Detection: NSA (jokes), Fraud Detection
-* Game Playing: Google DeepMind 
+* Game Playing: Google DeepMind, OpenAI
 
 I enjoy working with applied math and code. 
 
