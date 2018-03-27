@@ -92,9 +92,6 @@ I am currently working with Sequential Active Learning for Recommender Systems.
 * Sequential
 * Bayesian
 
-Of course, I'll need to bias my time on a very specific research, within the field of Machine Learning.
-I will mainly be applying Machine Learning to tackle Recommender Systems problems.
-
 ### Problems in Recommender Systems
 Within recommender systems itself, there are many interesting problems to tackle.
 * Cold-Start: What item do you recommend to a new user? What if the item itself is new? 
