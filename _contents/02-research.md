@@ -89,6 +89,7 @@ I enjoy working with applied math and code.
 * Machine Learning applied to Recommender Systems 
 * Active Learning
 * Sequential
+* Bayesian
 
 Of course, I'll need to bias my time on a very specific research, within the field of Machine Learning.
 I will mainly be applying my diverse ML knowledge to tackle Recommender Systems problems.
@@ -116,6 +117,20 @@ The popular approaches to these tradeoffs are:
 * Thompson Sampling
 * Upper Confidence Bound
 * Epsilon Greedy
+
+During the exploring phase, active learning should aim to gain as much information.
+It normally gains information at regions it is uncertain about.
+
+During the exploitation phase, active learning should recommend items it is confident about.
+This means it is very certain about its recommendation.
+
+To quantify uncertainty, we'll need to resort to full posterior estimates instead of point estimates. 
+This leads to intractable Bayesian approaches.
+
+To deal with high dimensional intractable bayesian integrals, the popular approaches are:
+* Conjugate Priors
+* Markov Chain Monte Carlo
+* Variational Inference
 
 ### Sequential Machine Learning Models
 I am mainly working with sequential active learning. 
