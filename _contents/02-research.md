@@ -92,7 +92,7 @@ I enjoy working with applied math and code.
 
 Of course, I'll need to bias my time on a very specific research, within the field of Machine Learning.
 I will mainly be applying my diverse ML knowledge to tackle Recommender Systems problems.
-I am currently working with Sequential Active for Recommender Systems.
+I am currently working with Sequential Active Learning for Recommender Systems.
 
 ### Problems in Recommender Systems
 Within recommender systems itself, there are many interesting problems to tackle.
