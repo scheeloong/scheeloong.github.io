@@ -119,7 +119,8 @@ The popular approaches to these tradeoffs are:
 
 ### Sequential Machine Learning Models
 I am mainly working with sequential active learning. 
-Models that works great with sequence normally models memory. 
+
+Models that works great with sequence should have memory over past observations.
 
 Models with memory:
 * Recurrent Neural Networks
