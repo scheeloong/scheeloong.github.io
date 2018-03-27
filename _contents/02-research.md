@@ -5,7 +5,7 @@ heading: Research
 subheading: Research&#58;
 image: ""
 ---
-# Research Direction
+# Research Interest
 
 I am curious about our intelligent ability to learn.
 
@@ -84,6 +84,22 @@ Machine Learning Applications:
 I enjoy working with applied math and code. 
 
 * [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
+
+## MASc Research Direction: Machine Learning applied to Recommender Systems 
+Of course, I'll need to bias my time on a very specific research, within the field of Machine Learning.
+I will mainly be applying my diverse ML knowledge to tackle Recommender Systems problems.
+
+### Problems in Recommender Systems
+Within recommender systems itself, there are many interesting problems to tackle.
+* Cold-Start: What item do you recommend to a new user? What if the item itself is new? 
+* Sparse Rating Matrix: Very few ratings for most of the items. How do you learn in this scenario?
+* Imbalanced: Rating Matrix are imbalanced. Majority of the ratings goes to the popular items.
+* Semi-supervised Learning: For some applications, you only have data for items user purchased which is normally biased towards items a user likes. Hence, it is a special form of semi-supervised learning. This is also known as the One-Class problem in Recommender Systems
+* Active Learning: What should you recommend to learn more about the user for personalized recommendations in future?
+* Offline Evaluation: How do we evaluate recommender systems offline, without access to a real online recommender sytem.
+* Content Embedding: How do we encode content information regarding users and items into useful embeddings? This also includes content like sound waves, images, geo-location.
+* Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
+* Sequential Recommendation: How do we account for time in recommendation?
 
 # Journals
 
