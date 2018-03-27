@@ -86,7 +86,7 @@ I enjoy working with applied math and code.
 * [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
 
 ## MASc Research Direction
-Machine Learning applied to Recommender Systems 
+* Machine Learning applied to Recommender Systems 
 
 Of course, I'll need to bias my time on a very specific research, within the field of Machine Learning.
 I will mainly be applying my diverse ML knowledge to tackle Recommender Systems problems.
@@ -102,6 +102,15 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Content Embedding: How do we encode content information regarding users and items into useful embeddings? This also includes content like sound waves, images, geo-location.
 * Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
 * Sequential Recommendation: How do we account for time and order of recommendations?
+
+### Machine Learning Models
+I am mainly working with sequential active learning. 
+Active learning normally requires modelling uncertainty, hence I'll have to resort to Bayesian approaches.
+Models that works great with sequence are models with memory.
+
+These include:
+* Recurrent Neural Networks
+* Reinforcement Learning
 
 # Journals
 
