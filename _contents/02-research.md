@@ -44,11 +44,18 @@ For instance, how do we model:
 * Imbalanced Learning: How do we learn about rare labels when our dataset is imbalanced? 
 * Generative Learning: How do we learn to generate realistic data? 
 
-Machine Learning research can be broken down into 4 steps: 
+Applied Machine Learning research can be broken down into 4 steps: 
 * Step 1: What is the problem? What is the type of data we are working with?
 * Step 2: Modelling. What model should we use? What are the potential abilities and drawbacks of this model? 
 * Step 3: How do we feasible train the model given our data?
 * Step 4: Evaluation. How do we evaluate how well this model has learnt and execute its potential abilities ?
+
+Theoretical Machine Learning research, below are just some examples:
+* A model must be bias to learn. 
+  Intuitively, if you are an unbias learning model, you would divide your time equally between many things,
+  then, you'll just be a jack of all trades and never really learn or master anything.
+  You really need to be biased towards something to learn. 
+  For instance, spend all your efforts working with Mathematics and ignore all other subjects to learn Mathematics.
 
 Machine Learning Models: (not mutually exclusive)
 * Nearest Neighbour: Cluster anything similar.
