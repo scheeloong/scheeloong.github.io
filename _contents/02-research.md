@@ -86,6 +86,7 @@ I enjoy working with applied math and code.
 * [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
 
 ## MASc Research Direction
+I am currently working with Sequential Active Learning for Recommender Systems.
 * Machine Learning applied to Recommender Systems 
 * Active Learning
 * Sequential
@@ -93,7 +94,6 @@ I enjoy working with applied math and code.
 
 Of course, I'll need to bias my time on a very specific research, within the field of Machine Learning.
 I will mainly be applying Machine Learning to tackle Recommender Systems problems.
-I am currently working with Sequential Active Learning for Recommender Systems.
 
 ### Problems in Recommender Systems
 Within recommender systems itself, there are many interesting problems to tackle.
