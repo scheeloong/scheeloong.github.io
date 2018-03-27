@@ -124,7 +124,7 @@ This means it is very certain about its recommendation.
 To quantify uncertainty, we'll need to resort to full posterior estimates instead of point estimates. 
 This leads to intractable Bayesian approaches.
 
-To deal with intractable high dimensional intractable integrals, the popular approaches are:
+To deal with intractable high dimensional integrals, the popular approaches are:
 * Conjugate Priors
 * Markov Chain Monte Carlo Sampling
 * Variational Inference
