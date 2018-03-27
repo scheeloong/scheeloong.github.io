@@ -124,6 +124,7 @@ Models that works great with sequence are models with memory.
 These include:
 * Recurrent Neural Networks
 * Reinforcement Learning
+* Markov Decision Processes
 
 # Journals
 
