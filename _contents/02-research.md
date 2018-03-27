@@ -129,7 +129,7 @@ This leads to intractable Bayesian approaches.
 
 To deal with intractable high dimensional intractable integrals, the popular approaches are:
 * Conjugate Priors
-* Sampling
+* Markov Chain Monte Carlo Sampling
 * Variational Inference
 
 ### Sequential Machine Learning Models
