@@ -103,9 +103,22 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
 * Sequential Recommendation: How do we account for time and order of recommendations?
 
-### Machine Learning Models
-I am mainly working with sequential active learning. 
+### Bayesian Optimization
 Active learning normally requires modelling uncertainty, hence I'll have to resort to Bayesian approaches.
+Also, active learning requires tradeoffs between exhaustation and exploration. 
+
+Hence, approaches used in Bayesian Optimization are useful:
+* Probability of Improvement
+* Expected Improvement
+* Entropy Search
+* Thompson Sampling
+* Upper Confidence Bound
+
+Note however, that active learning in recommender systems works with discrete finite domain. 
+Hence, usual Bayesian Optimization that works with continuous regression problems isn't immediately applicable.
+
+### Sequential Machine Learning Models
+I am mainly working with sequential active learning. 
 Models that works great with sequence are models with memory.
 
 These include:
