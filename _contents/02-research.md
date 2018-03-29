@@ -80,6 +80,7 @@ Machine Learning Applications:
 * Style Transfer: Painting
 * Anomaly Detection: NSA (jokes), Fraud Detection
 * Game Playing: Google DeepMind, OpenAI
+* Sports Analytics: Microsoft Xbox Team, NBA, Chess 
 
 I enjoy working with applied math and code. 
 
