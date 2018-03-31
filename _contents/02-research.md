@@ -52,11 +52,8 @@ Machine Learning research can be broken down into 4 steps:
 
 The steps above did not include purely Theoretical Machine Learning research.
 Below are just some examples:
-* A model must be bias to learn. 
-  Intuitively, if you are an unbias learning model, you would divide your time equally between many things,
-  then, you'll just be a jack of all trades and never really learn or master anything.
-  You really need to be biased towards something to learn. 
-  For instance, spend all your efforts working with Mathematics and ignore all other subjects to learn Mathematics.
+* No Free Lunch Theorem indicates no classifier is superior over another on all possible test sets,
+  including the random classifier. 
 
 Machine Learning Models: (not mutually exclusive)
 * Nearest Neighbour: Cluster anything similar.
