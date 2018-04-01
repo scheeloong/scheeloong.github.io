@@ -140,6 +140,7 @@ Models with memory:
 
 Models should also be able to train online. 
 Since, the next selected data should be able to update the model via training in an online fashion.
+This means a current active test point, becomes a future training point.
 
 # Journals
 
