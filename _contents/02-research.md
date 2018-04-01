@@ -56,7 +56,8 @@ Below are just some examples:
   including the random classifier. 
 
 Machine Learning Models: (not mutually exclusive)
-* Nearest Neighbour: Cluster anything similar.
+* Nearest Neighbour, Parametric: (e.g. KMeans) Cluster anything similar.
+* Nearest Neighbour, Non-Parametric: (e.g. KNN) Complexity of decision boundaries grows with data. 
 * Kernel Machines, Support Vector Machines: Being as far away from decision boundary as possible.
 * Deep Learning, NN, CNN, RNN: Fire when you detect a useful signal.
 * Reinforcement Learning: Learning from delayed feedback while planning.
