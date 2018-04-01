@@ -138,6 +138,9 @@ Models with memory:
 * Markov Decision Processes
 * Reinforcement Learning
 
+Models should also be able to train online. 
+Since, the next selected data should be able to update the model via training in an online fashion.
+
 # Journals
 
 * [ℚ-bounds consistency for the spread constraint with variable mean](https://link.springer.com/article/10.1007/s10601-016-9238-x)
