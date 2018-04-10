@@ -66,16 +66,16 @@ Machine Learning Models: (not mutually exclusive)
 * Mixture Models: Symptoms and Observations
 
 Machine Learning Applications:
-* Information Retrieval: Google, Yahoo, Search Engines
-* Recommender Systems: Amazon, Netflix, Spotify
+* Information Retrieval: Google Search, Yahoo Search
+* Recommender Systems: Amazon, Netflix, Spotify, Google News
 * Self-Driving Cars(includes Robotics + Computer Vision): Uber, Waymo
 * Bioinformatics: Medical Diagnosis
-* Machine Translation: Translate Mandarin to English
+* Machine Translation: Google Translate 
 * Question Answering: Answer questions from customers.
 * Image Segmentation: Amazon Go
 * Object Detection: Amazon Go
 * Face Detection: Facebook, Snapchat
-* Style Transfer: Painting
+* Style Transfer: 500px
 * Anomaly Detection: NSA (jokes), Fraud Detection
 * Game Playing: Google DeepMind, OpenAI
 * Sports Analytics: Microsoft Xbox Team, NBA, Chess 
