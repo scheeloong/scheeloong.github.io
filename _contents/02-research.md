@@ -55,6 +55,7 @@ The steps above did not include purely Theoretical Machine Learning research.
 Below are just some examples:
 * No Free Lunch Theorem indicates no classifier is superior over another on all possible test sets,
   including the random classifier. 
+* Bias Variance Decomposition
 
 Machine Learning Models: (not mutually exclusive)
 * Nearest Neighbour, Parametric: (e.g. KMeans) Cluster anything similar.
