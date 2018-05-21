@@ -44,6 +44,7 @@ For instance, how do we model:
 * Semi-Supervised Learning: How do we learn about the population given a sample? 
 * Imbalanced Learning: How do we learn about rare labels when our dataset is imbalanced? 
 * Generative Learning: How do we learn to generate realistic data? 
+* Ensemble Learning: How do we combine different models together for a single task? 
 
 Machine Learning research can be broken down into 4 steps: 
 * Step 1: What is the problem? What is the type of data we are working with?
