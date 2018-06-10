@@ -74,6 +74,7 @@ Machine Learning Applications:
 * Self-Driving Cars(includes Robotics + Computer Vision): Uber, Waymo
 * Bioinformatics: Medical Diagnosis
 * Machine Translation: Google Translate 
+* Speech Recognition: Siri, Amazon Alexa, Google Home
 * Question Answering: Answer questions from customers.
 * Image Segmentation: Amazon Go
 * Object Detection: Amazon Go
