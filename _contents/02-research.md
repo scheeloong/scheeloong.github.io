@@ -71,6 +71,7 @@ Machine Learning Models: (not mutually exclusive)
 Machine Learning Applications:
 * Information Retrieval: Google Search, Yahoo Search
 * Recommender Systems: Amazon, Netflix, Spotify, Google News
+* Online Advertising: Google, Facebook
 * Self-Driving Cars(includes Robotics + Computer Vision): Uber, Waymo
 * Bioinformatics: Medical Diagnosis
 * Machine Translation: Google Translate 
@@ -145,6 +146,36 @@ Models with memory:
 Models should also be able to train online. 
 Since, the next selected data should be able to update the model via training in an online fashion.
 This means a current active test point, becomes a future training point.
+
+### Approaches to Recommender Systems
+The popular existing approaches to recommender systems are
+
+Neighbourhood Models
+* Collaborative Filtering (CF)
+
+Linear Models
+* Sparse Linear Models (SLIM)
+* Linear Recommendation (LRec) 
+
+Rating Models
+* Probabilistic Matrix Factorization (PMF) 
+* Singular Value Decomposition (PureSVD)
+* Weighted Regularized Matrix Factorization (WRMF)
+
+Ranking Models
+* Bayesian Personalized Ranking (BPR)
+
+Content Models
+* Geographically Models
+* Social-based Models
+
+Sequence Models
+
+Deep Models
+* RBM-CF
+* AutoRec
+* Collaborative Deep Learning (CDL) 
+* Neural Autoregressive Distribution Estimator (CF-NADE)
 
 # Journals
 
