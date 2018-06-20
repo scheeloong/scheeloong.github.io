@@ -71,6 +71,7 @@ Machine Learning Models: (not mutually exclusive)
 Machine Learning Applications:
 * Information Retrieval: Google Search, Yahoo Search
 * Recommender Systems: Amazon, Netflix, Spotify, Google News
+* Supply Chain Management (know which item are more demanded at different times of year)
 * Online Advertising: Google, Facebook
 * Self-Driving Cars(includes Robotics + Computer Vision): Uber, Waymo
 * Bioinformatics: Medical Diagnosis
