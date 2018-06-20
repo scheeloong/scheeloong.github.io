@@ -175,6 +175,9 @@ Word Embedding Models
 Bayesian Models
 * MatchBox
 
+Topic Models
+* Latent Dirichlet Allocation
+
 Deep Models
 * RBM-CF
 * AutoRec
