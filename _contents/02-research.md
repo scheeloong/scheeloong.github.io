@@ -154,23 +154,26 @@ The popular existing approaches to recommender systems are
 Neighbourhood Models
 * Collaborative Filtering (CF)
 
+Rating Models
+* Probabilistic Matrix Factorization (PMF) 
+* Singular Value Decomposition + Neighbourhood (SVD++)
+* Weighted Regularized Matrix Factorization (WRMF, wALS)
+
+Ranking Models
+* Singular Value Decomposition (PureSVD)
+* Bayesian Personalized Ranking (BPR)
+* RankALS
+
 Linear Models
 * Sparse Linear Models (SLIM)
 * Linear Recommendation (LRec) 
 
-Rating Models
-* Probabilistic Matrix Factorization (PMF) 
-* Singular Value Decomposition (PureSVD)
-* Weighted Regularized Matrix Factorization (WRMF)
+Word Embedding Models
+* item2vec
+* prod2vec
 
-Ranking Models
-* Bayesian Personalized Ranking (BPR)
-
-Content Models
-* Geographically Models
-* Social-based Models
-
-Sequence Models
+Bayesian Models
+* MatchBox
 
 Deep Models
 * RBM-CF
