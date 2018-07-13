@@ -35,7 +35,7 @@ For instance, how do we model:
 * Memory: How do we remember or forget information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
 * Online Learning: Learn from data sequentially in an online manner, since data may only be available in future. 
-* Active Learning: Actively deciding what to learn, since it's impossible to learn everything.
+* Active Learning: Actively deciding what to learn, since it's impossible to learn everything. Multi-armed Bandit problem.
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
@@ -63,6 +63,7 @@ Machine Learning Models: (not mutually exclusive)
 * Nearest Neighbour, Non-Parametric: (e.g. KNN) Complexity of decision boundaries grows with data. 
 * Kernel Machines, Support Vector Machines: Being as far away from decision boundary as possible.
 * Deep Learning, NN, CNN, RNN: Fire when you detect a useful signal.
+* Multi-armed Bandit: Learning from only the action taken (bandit feedback), and no information from others.
 * Reinforcement Learning: Learning from delayed feedback while planning.
 * Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference.
 * Bayesian Nonparametrics, Gaussian Processes: Model complexity grows with data
@@ -85,6 +86,8 @@ Machine Learning Applications:
 * Anomaly Detection: NSA (jokes), Fraud Detection
 * Game Playing: Google DeepMind, OpenAI
 * Sports Analytics: Microsoft Xbox Team, NBA, Chess 
+* Healthcare: Clinical Trials (which drug to test for effectiveness) 
+* Dynamic Pricing: (trying out what price will earn the most revenue)
 
 I enjoy working with applied math and code. 
 
@@ -109,7 +112,7 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
 * Sequential Recommendation: How do we account for time and order of recommendations?
 
-### Exploration-Exploitation Tradeoff
+### Exploration-Exploitation Tradeoff = Multi-armed Bandit
 Active learning normally requires a tradeoff between exploring new items vs exploiting popular well known items
 
 The popular approaches to these tradeoffs are:
