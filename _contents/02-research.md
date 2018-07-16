@@ -147,7 +147,7 @@ Models with memory:
 * Hidden Markov Models (Generate the observations in a sequence)
 * Markov Decision Processes (state depends on action taken)
 * Recurrent Neural Networks (generates sequential recommendation from an input sequence)
-* Reinforcement Learning (take actions to maximize long term rewards)
+* Reinforcement Learning (learns to explore and exploit interactively, taking into account long term rewards)
 
 Models should also be able to train online with variable length input.
 Since, the next selected data should be able to update the model via training in an online fashion.
