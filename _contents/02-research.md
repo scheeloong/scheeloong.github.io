@@ -36,6 +36,7 @@ For instance, how do we model:
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
 * Online Learning: Learn from data sequentially in an online manner, since data may only be available in future. 
 * Active Learning: Actively deciding what to learn, since it's impossible to learn everything. Multi-armed Bandit problem.
+* Adaptive Submodularity: How do we mathematically model for diminishing returns ?
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
@@ -83,11 +84,11 @@ Machine Learning Applications:
 * Object Detection: Amazon Go
 * Face Detection: Facebook, Snapchat
 * Style Transfer: 500px
-* Anomaly Detection: NSA (jokes), Fraud Detection
+* Anomaly Detection: NSA (jokes), Fraud Detection, Spam Filtering
 * Game Playing: Google DeepMind, OpenAI
 * Sports Analytics: Microsoft Xbox Team, NBA, Chess 
 * Healthcare: Clinical Trials (which drug to test for effectiveness) 
-* Dynamic Pricing: (trying out what price will earn the most revenue)
+* Dynamic Pricing: (trying out which price will earn the most revenue)
 
 I enjoy working with applied math and code. 
 
@@ -119,9 +120,9 @@ The popular approaches to these tradeoffs are:
 * Probability of Improvement
 * Expected Improvement
 * Entropy Search
-* Thompson Sampling
-* Upper Confidence Bound
-* Epsilon Greedy
+* Epsilon Greedy (include randomness in search)
+* Upper Confidence Bound (prioritize uncertainty in searching)
+* Thompson Sampling (search based on posterior distribution)
 
 During the exploring phase, active learning should aim to gain as much information.
 It normally gains information at regions it is uncertain about.
@@ -143,39 +144,39 @@ I am mainly working with sequential active learning.
 Models that works great with sequence should have memory over past observations.
 
 Models with memory:
-* Recurrent Neural Networks
-* Markov Decision Processes
-* Reinforcement Learning
+* Recurrent Neural Networks (generates sequential recommendation from an input sequence)
+* Markov Decision Processes (state depends on action taken)
+* Reinforcement Learning (take actions to maximize long term rewards)
 
-Models should also be able to train online. 
+Models should also be able to train online with variable length input.
 Since, the next selected data should be able to update the model via training in an online fashion.
 This means a current active test point, becomes a future training point.
 
 ### Approaches to Recommender Systems
 The popular existing approaches to recommender systems are
 
-Neighbourhood Models
+Neighbourhood Models (compares item-item vectors or user-item vectors)
 * Collaborative Filtering (CF)
 
-Rating Models
+Matrix Factorization Rating Models (compares user and item vectors directly, optimized for rating)
 * Probabilistic Matrix Factorization (PMF) 
 * Singular Value Decomposition + Neighbourhood (SVD++)
 * Weighted Regularized Matrix Factorization (WRMF, wALS)
 
-Ranking Models
-* Singular Value Decomposition (PureSVD)
-* Bayesian Personalized Ranking (BPR)
+Ranking Models (compares user and item vectors directly, optimized for similarity in ranking)
+* Singular Value Decomposition (PureSVD, forms a basis to predict output)
+* Bayesian Personalized Ranking (BPR, train using a ranking loss)
 * RankALS
 
-Linear Models
+Linear Models (Scalable, Personalizable, creating a simple model on each user in parallel)
 * Sparse Linear Models (SLIM)
 * Linear Recommendation (LRec) 
 
-Word Embedding Models
+Word Embedding Models (Embedding items based on co-occurrencec statistics)
 * item2vec
 * prod2vec
 
-Bayesian Models
+Bayesian Models (Accounting for uncertainty)
 * MatchBox
 
 Topic Models
@@ -186,6 +187,14 @@ Deep Models
 * AutoRec
 * Collaborative Deep Learning (CDL) 
 * Neural Autoregressive Distribution Estimator (CF-NADE)
+
+Image Models
+* VBPR
+* CNN for Image Embedding
+
+Sequential Models
+* MDP
+* RNN for Session Recommendation
 
 # Journals
 
