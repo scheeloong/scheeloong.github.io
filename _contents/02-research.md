@@ -144,8 +144,9 @@ I am mainly working with sequential active learning.
 Models that works great with sequence should have memory over past observations.
 
 Models with memory:
-* Recurrent Neural Networks (generates sequential recommendation from an input sequence)
+* Hidden Markov Models (Generate the observations in a sequence)
 * Markov Decision Processes (state depends on action taken)
+* Recurrent Neural Networks (generates sequential recommendation from an input sequence)
 * Reinforcement Learning (take actions to maximize long term rewards)
 
 Models should also be able to train online with variable length input.
