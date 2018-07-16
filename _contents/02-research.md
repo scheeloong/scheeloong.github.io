@@ -37,6 +37,7 @@ For instance, how do we model:
 * Online Learning: Learn from data sequentially in an online manner, since data may only be available in future. 
 * Active Learning: Actively deciding what to learn, since it's impossible to learn everything. Multi-armed Bandit problem.
 * Adaptive Submodularity: How do we mathematically model for diminishing returns? Useful for active learning and diversifying actions.
+* Preference Learning: Learning by comparison of what a user prefers instead of a no comparison of does the user like this?
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
