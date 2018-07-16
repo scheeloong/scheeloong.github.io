@@ -155,7 +155,8 @@ It also generates recommendation in a sequence.
 Reinforcement Learning approaches are known to explicitly learn from long term rewards.
 It also enables us to take actively take actions on what to do.
 
-It would be nice if I could figure out a way to combine their strengths for sequential recommendation.
+Of course, would has been done to integrate the two models. 
+
 
 Models should also be able to train online with variable length input.
 Since, the next selected data should be able to update the model via training in an online fashion.
