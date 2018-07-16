@@ -149,6 +149,14 @@ Models with memory:
 * Recurrent Neural Networks (generates sequential recommendation from an input sequence)
 * Reinforcement Learning (learns to explore and exploit interactively, taking into account long term rewards)
 
+Recurrent Neural Network extensions are known to be good at modelling long sequences. 
+It also generates recommendation in a sequence. 
+
+Reinforcement Learning approaches are known to explicitly learn from long term rewards.
+It also enables us to take actively take actions on what to do.
+
+It would be nice if I could figure out a way to combine their strengths for sequential recommendation.
+
 Models should also be able to train online with variable length input.
 Since, the next selected data should be able to update the model via training in an online fashion.
 This means a current active test point, becomes a future training point.
