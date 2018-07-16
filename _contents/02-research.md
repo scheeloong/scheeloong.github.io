@@ -36,7 +36,7 @@ For instance, how do we model:
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
 * Online Learning: Learn from data sequentially in an online manner, since data may only be available in future. 
 * Active Learning: Actively deciding what to learn, since it's impossible to learn everything. Multi-armed Bandit problem.
-* Adaptive Submodularity: How do we mathematically model for diminishing returns ?
+* Adaptive Submodularity: How do we mathematically model for diminishing returns? Useful for diversifying actions.
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
@@ -105,6 +105,8 @@ I am currently working with Sequential Active Learning for Recommender Systems.
 Within recommender systems itself, there are many interesting problems to tackle.
 * Cold-Start: What item do you recommend to a new user? What if the item itself is new? 
 * Sparse Rating Matrix: Very few ratings for most of the items. How do you learn in this scenario?
+* Diversity: How to recommend a diverse set of items instead of just popular ones? 
+* Personalized: How to personalized recommendation to users instead of recommend similar items to all users?
 * Imbalanced: Rating Matrix are imbalanced. Majority of the ratings goes to the popular items.
 * Semi-supervised Learning: For some applications, you only have data for items user purchased which is normally biased towards items a user likes. Hence, it is a special form of semi-supervised learning. This is also known as the One-Class problem in Recommender Systems
 * Active Learning: What should you recommend to learn more about the user for personalized recommendations in future?
