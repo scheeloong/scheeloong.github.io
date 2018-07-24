@@ -109,15 +109,19 @@ I am currently working with Sequential Active Learning for Recommender Systems.
 Within recommender systems itself, there are many interesting problems to tackle.
 * Cold-Start: What item do you recommend to a new user? What if the item itself is new? 
 * Sparse Rating Matrix: Very few ratings for most of the items. How do you learn in this scenario?
-* Diversity: How to recommend a diverse set of items instead of just popular ones? 
+* Scalable Recommendation: Lots of users, lots of items. Recommendation algorithms needs to scale.
+* Diversity: How to recommend a diverse set of items instead of just popular ones? Adaptive Submodularity.
 * Personalized: How to personalized recommendation to users instead of recommend similar items to all users?
 * Imbalanced: Rating Matrix are imbalanced. Majority of the ratings goes to the popular items.
 * Semi-supervised Learning: For some applications, you only have data for items user purchased which is normally biased towards items a user likes. Hence, it is a special form of semi-supervised learning. This is also known as the One-Class problem in Recommender Systems
+* Content Embedding: How do we encode content information regarding users and items into useful embeddings? This also includes content like sound waves, images, geo-location.
+* Image Recommendation: Embedding images and learning the features of each image based on style. 
+* Natural Language Recommendation: Embedding product reviews and product description as content information using Language Embeddings.
+* Sequential Recommendation: How do we account for time and order of recommendations?
+* Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
 * Active Learning: What should you recommend to learn more about the user for personalized recommendations in future?
 * Offline Evaluation: How do we evaluate recommender systems offline, without access to a real online recommender sytem.
-* Content Embedding: How do we encode content information regarding users and items into useful embeddings? This also includes content like sound waves, images, geo-location.
-* Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
-* Sequential Recommendation: How do we account for time and order of recommendations?
+* Reinforcement Learning Recommendation: Exploration and exploitation trade-offs on recommendation choice to maximize cumulative rewards.
 
 ### Exploration-Exploitation Tradeoff = Multi-armed Bandit
 Active learning normally requires a tradeoff between exploring new items vs exploiting popular well known items
@@ -136,6 +140,9 @@ It normally gains information at regions it is uncertain about.
 During the exploitation phase, active learning should recommend items it is confident about.
 This means it is very certain about its recommendation.
 
+#### Bayesian Machine Learning Models
+Need to model posterior distribution of model to help in exploration-exploitation tradeoffs.
+
 To quantify uncertainty, we'll need to resort to full posterior estimates instead of point estimates. 
 This leads to intractable Bayesian approaches.
 
@@ -151,8 +158,8 @@ Models that works great with sequence should have memory over past observations.
 
 Models with memory:
 * Hidden Markov Models (Generate the observations in a sequence)
-* Markov Decision Processes (state depends on action taken)
 * Recurrent Neural Networks (generates sequential recommendation from an input sequence)
+* Markov Decision Processes (state depends on action taken)
 * Reinforcement Learning (learns to explore and exploit interactively, taking into account long term rewards)
 
 Recurrent Neural Network extensions are known to be good at modelling long sequences. 
@@ -161,9 +168,9 @@ It also generates recommendation in a sequence.
 Reinforcement Learning approaches are known to explicitly learn from long term rewards.
 It also enables us to take actively take actions on what to do.
 
-Of course, would has been done to integrate the two models. 
+Work has been done to integrate the two models. 
 
-
+#### Sequential Online Learning
 Models should also be able to train online with variable length input.
 Since, the next selected data should be able to update the model via training in an online fashion.
 This means a current active test point, becomes a future training point.
