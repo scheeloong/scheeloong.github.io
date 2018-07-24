@@ -179,8 +179,9 @@ Models with memory:
 Recurrent Neural Network extensions are known to be good at modelling long sequences. 
 It also generates recommendation in a sequence. 
 
-Reinforcement Learning approaches are known to explicitly learn from long term rewards.
+Reinforcement Learning approaches learn from long term rewards.
 It also enables us to take actively take actions on what to do.
+Its actions also affect the state, which includes the state transition and reward distribution.
 
 Work has been done to integrate the two models. 
 
