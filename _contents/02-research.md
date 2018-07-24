@@ -104,7 +104,7 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Semi-supervised Learning: For some applications, you only have data for items user purchased which is normally biased towards items a user likes. Hence, it is a special form of semi-supervised learning. This is also known as the One-Class problem in Recommender Systems
 * Content Embedding: How do we encode content information regarding users and items into useful embeddings? This also includes content like sound waves, images, geo-location.
 * Image Recommendation: Embedding images and learning the features of each image based on style. 
-* Natural Language Recommendation: Embedding product reviews and product description as content information using Language Embeddings.
+* Natural Language Recommendation: Embedding news, product reviews and product description as content information using Language Embeddings.
 * Sequential Recommendation: How do we account for time and order of recommendations?
 * Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
 * Active Learning: What should you recommend to learn more about the user for personalized recommendations in future?
