@@ -37,14 +37,13 @@ For instance, how do we model:
 * Online Learning: Learn from data sequentially in an online manner, since data may only be available in future. 
 * Active Learning: Actively deciding what to learn, and which data to annotate, since human annotators are expensive. 
 * Adaptive Submodularity: How do we mathematically model for diminishing returns? Useful for active learning and diversifying actions.
-* Explore or Exploit information: Trading off between exploration to learn for higher future rewards, and exploitation for current rewards. Multi-arm Bandit
+* Exploration vs Exploitation: Trading off between exploration to learn for higher future rewards, or exploitation for current rewards. Multi-arm Bandit
 * Black-Box Learning: How do we learn to optimize a black-box function by querying arbitrary points. Bayesian Optimization
 * Preference Learning: Learning by comparison of what a user prefers instead of the usual independence of does the user like this single training data? Also known as Learning to Rank
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer useful learnt information from one model to another? 
 * Knowledge Distillation: How do we transfer the core information from a large model to a smaller model?
 * Few Shot Learning: How do we learn from as few examples as possible? 
-* Exploration vs Exhaustation: How do we decide if we should explore other decisions or dive into ones we already know?
 * Semi-Supervised Learning: How do we learn about the population given a sample? 
 * Imbalanced Learning: How do we learn about rare labels when our dataset is imbalanced? 
 * Generative Learning: How do we learn to generate realistic data?
