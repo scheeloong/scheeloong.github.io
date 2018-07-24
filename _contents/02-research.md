@@ -94,17 +94,6 @@ Machine Learning Applications:
 * Dynamic Pricing: (trying out which price will earn the most revenue)
 * Portfolio Management:  which company and how much investment to make
 
-I enjoy working with applied math and code. 
-
-* [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
-
-## MASc Research Direction
-I am currently working with Sequential Active Learning for Recommender Systems.
-* Machine Learning applied to Recommender Systems 
-* Active Learning
-* Sequential
-* Bayesian
-
 ### Problems in Recommender Systems
 Within recommender systems itself, there are many interesting problems to tackle.
 * Cold-Start: What item do you recommend to a new user? What if the item itself is new? 
@@ -123,59 +112,7 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Offline Evaluation: How do we evaluate recommender systems offline, without access to a real online recommender sytem.
 * Reinforcement Learning Recommendation: Exploration and exploitation trade-offs on recommendation choice to maximize cumulative rewards.
 
-### Exploration-Exploitation Tradeoff = Multi-armed Bandit
-Active learning normally requires a tradeoff between exploring new items vs exploiting popular well known items
-
-The popular approaches to these tradeoffs are:
-* Probability of Improvement
-* Expected Improvement
-* Entropy Search
-* Epsilon Greedy (include randomness in search)
-* Upper Confidence Bound (prioritize uncertainty in searching)
-* Thompson Sampling (search based on posterior distribution)
-
-During the exploring phase, active learning should aim to gain as much information.
-It normally gains information at regions it is uncertain about.
-
-During the exploitation phase, active learning should recommend items it is confident about.
-This means it is very certain about its recommendation.
-
-#### Bayesian Machine Learning Models
-Need to model posterior distribution of model to help in exploration-exploitation tradeoffs.
-
-To quantify uncertainty, we'll need to resort to full posterior estimates instead of point estimates. 
-This leads to intractable Bayesian approaches.
-
-To deal with intractable high dimensional integrals, the popular approaches are:
-* Conjugate Priors
-* Markov Chain Monte Carlo Sampling
-* Variational Inference
-
-### Sequential Machine Learning Models
-I am mainly working with sequential active learning. 
-
-Models that works great with sequence should have memory over past observations.
-
-Models with memory:
-* Hidden Markov Models (Generate the observations in a sequence)
-* Recurrent Neural Networks (generates sequential recommendation from an input sequence)
-* Markov Decision Processes (state depends on action taken)
-* Reinforcement Learning (learns to explore and exploit interactively, taking into account long term rewards)
-
-Recurrent Neural Network extensions are known to be good at modelling long sequences. 
-It also generates recommendation in a sequence. 
-
-Reinforcement Learning approaches are known to explicitly learn from long term rewards.
-It also enables us to take actively take actions on what to do.
-
-Work has been done to integrate the two models. 
-
-#### Sequential Online Learning
-Models should also be able to train online with variable length input.
-Since, the next selected data should be able to update the model via training in an online fashion.
-This means a current active test point, becomes a future training point.
-
-### Approaches to Recommender Systems
+### Seminal Approaches to Recommender Systems
 The popular existing approaches to recommender systems are
 
 Neighbourhood Models (compares item-item vectors or user-item vectors)
@@ -219,6 +156,83 @@ Sequential Models
 * MDP
 * RNN for Session Recommendation
 
+## MASc Research Direction
+I am currently working with Sequential Active Learning for Personalized Recommender Systems.
+* Machine Learning applied to Recommender Systems 
+* Sequential Models
+* Online Learning
+* Exploration-Exploitation Tradeoffs
+* Active Learning
+* Bayesian
+* Offline Evaluation
+
+### Sequential Machine Learning Models
+I am mainly working with sequential active learning. 
+
+Models that works great with sequence should have memory over past observations.
+
+Models with memory:
+* Hidden Markov Models (Generate the observations in a sequence)
+* Recurrent Neural Networks (generates sequential recommendation from an input sequence)
+* Markov Decision Processes (state depends on action taken)
+* Reinforcement Learning (learns to explore and exploit interactively, taking into account long term rewards)
+
+Recurrent Neural Network extensions are known to be good at modelling long sequences. 
+It also generates recommendation in a sequence. 
+
+Reinforcement Learning approaches are known to explicitly learn from long term rewards.
+It also enables us to take actively take actions on what to do.
+
+Work has been done to integrate the two models. 
+
+#### Sequential Online Learning
+Models should also be able to train online with variable length input.
+Since, the next selected data should be able to update the model via training in an online fashion.
+This means a current active test point, becomes a future training point.
+
+### Exploration-Exploitation Tradeoff = Multi-armed Bandit
+Tradeoff between exploring new items vs exploiting popular well known items
+
+The popular approaches to these tradeoffs are:
+* Probability of Improvement
+* Expected Improvement
+* Entropy Search
+* Epsilon Greedy (include randomness in search)
+* Upper Confidence Bound (prioritize uncertainty in searching)
+* Thompson Sampling (search based on posterior distribution)
+
+During the exploring phase, active learning should aim to gain as much information.
+It normally gains information at regions it is uncertain about.
+
+During the exploitation phase, active learning should recommend items it is confident about.
+This means it is very certain about its recommendation.
+
+#### Bayesian Machine Learning Models
+Need to model posterior distribution of model to help in exploration-exploitation tradeoffs.
+
+To quantify uncertainty, we'll need to resort to full posterior estimates instead of point estimates. 
+This leads to intractable Bayesian approaches.
+
+To deal with intractable high dimensional integrals, the popular approaches are:
+* Conjugate Priors
+* Markov Chain Monte Carlo Sampling
+* Variational Inference
+
+#### Active Learning
+During exploration phase, how to explore to gain most information.
+
+### Offline Evaluation
+Access to online user is unavailable for academic researchers. 
+For industry, it is also expensive to test on live users.
+Need to be able to evaluate model offline.
+Unlike simulating physics engines in games, it is impossible to simulate real user behavior.
+Hence, this is a difficult research problem on how to evaluate models offline.
+
 # Journals
 
 * [ℚ-bounds consistency for the spread constraint with variable mean](https://link.springer.com/article/10.1007/s10601-016-9238-x)
+
+I enjoy working with applied math and code. 
+
+* [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
+
