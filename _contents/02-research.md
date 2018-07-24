@@ -222,10 +222,10 @@ During exploration phase, how to explore to gain most information.
 
 ### Offline Evaluation
 Access to online user is unavailable for academic researchers. 
-For industry, it is also expensive to test on live users.
+Even if we do have access in industry, it is expensive to test on live users.
 Need to be able to evaluate model offline.
-Unlike simulating physics engines in games, it is impossible to simulate real user behavior.
-Hence, this is a difficult research problem on how to evaluate models offline.
+Unlike simulating physics engines in games, it is impossible to simulate real user behavior as we do not know how the brain works.
+Hence, evaluation models offline is a difficult research problem.
 
 # Journals
 
