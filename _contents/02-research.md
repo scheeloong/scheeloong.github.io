@@ -25,8 +25,8 @@ I am passionate about Artificial Intelligence, especially Machine Learning, as i
 
 For instance, how do we model:
 * Instantaneous Learning: How do we train a model to learn from correct examples? Ideas from Mathematical Optimization, Sampling, Variational Inference
-* Delayed Learning: How do we learn by rewards and punishment? Ideas from Animal Learning, Reinforcement Learning, Optimal Control Theory, Dynamic Programming
-* Credit Assignment: After we finally succeed, how do we assign credit to which path along our success was more important for our success? 
+* Delayed Reward Learning: How do we learn by delayed rewards and punishment? Ideas from Animal Learning, Reinforcement Learning, Optimal Control Theory, Dynamic Programming
+* Credit Assignment: After we succeed, how do we assign credit to which path along our success was more important for our success? 
 * Inference: How do we calculate probability of events given evidences? Ideas from Probabilistic Graphical Models.
 * Planning: How do we plan what to do given our available information? Ideas from Markov Decision Processes, Decision Trees.
 * Information: How do we calculate how much information we have gathered or could gather? Ideas from Information Theory, Uncertainty, bayesian posterior beliefs distribution, expected improvement.
@@ -35,8 +35,10 @@ For instance, how do we model:
 * Memory: How do we remember or forget information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
 * Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
 * Online Learning: Learn from data sequentially in an online manner, since data may only be available in future. 
-* Active Learning: Actively deciding what to learn, since it's impossible to learn everything. Multi-armed Bandit problem.
+* Active Learning: Actively deciding what to learn, and which data to annotate, since human annotators are expensive. 
 * Adaptive Submodularity: How do we mathematically model for diminishing returns? Useful for active learning and diversifying actions.
+* Explore or Exploit information: Trading off between exploration to learn for higher future rewards, and exploitation for current rewards. Multi-arm Bandit
+* Black-Box Learning: How do we learn to optimize a black-box function by querying arbitrary points. Bayesian Optimization
 * Preference Learning: Learning by comparison of what a user prefers instead of the usual independence of does the user like this single training data? Also known as Learning to Rank
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
 * Transfer Learning: How do we transfer useful learnt information from one model to another? 
@@ -45,7 +47,7 @@ For instance, how do we model:
 * Exploration vs Exhaustation: How do we decide if we should explore other decisions or dive into ones we already know?
 * Semi-Supervised Learning: How do we learn about the population given a sample? 
 * Imbalanced Learning: How do we learn about rare labels when our dataset is imbalanced? 
-* Generative Learning: How do we learn to generate realistic data? 
+* Generative Learning: How do we learn to generate realistic data?
 * Ensemble Learning: How do we combine different models together for a single task? 
 
 Machine Learning research can be broken down into 4 steps: 
@@ -66,7 +68,7 @@ Machine Learning Models: (not mutually exclusive)
 * Kernel Machines, Support Vector Machines: Being as far away from decision boundary as possible.
 * Deep Learning, NN, CNN, RNN: Fire when you detect a useful signal.
 * Multi-armed Bandit: Learning from only the action taken (bandit feedback), and no information from others.
-* Reinforcement Learning: Learning from delayed feedback while planning.
+* Reinforcement Learning: Learning from delayed rewards while planning.
 * Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference.
 * Bayesian Nonparametrics, Gaussian Processes: Model complexity grows with data
 * Mixture Models: Symptoms and Observations
@@ -90,6 +92,7 @@ Machine Learning Applications:
 * Sports Analytics: Microsoft Xbox Team, NBA, Chess 
 * Healthcare: Clinical Trials (which drug to test for effectiveness) 
 * Dynamic Pricing: (trying out which price will earn the most revenue)
+* Portfolio Management:  which company and how much investment to make
 
 I enjoy working with applied math and code. 
 
