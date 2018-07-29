@@ -98,7 +98,7 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Cold-Start: What item do you recommend to a new user? What if the item itself is new? 
 * Sparse Rating Matrix: Very few ratings for most of the items. How do you learn in this scenario?
 * Scalable Recommendation: Lots of users, lots of items. Recommendation algorithms needs to scale.
-* Diversity: How to recommend a diverse set of items instead of just popular ones? Adaptive Submodularity.
+* Diversity: How to recommend a diverse set of items instead of just popular ones? Adaptive Submodularity, Determinantal Point Processes.
 * Personalized: How to personalized recommendation to users instead of recommend similar items to all users?
 * Imbalanced: Rating Matrix are imbalanced. Majority of the ratings goes to the popular items.
 * Semi-supervised Learning: For some applications, you only have data for items user purchased which is normally biased towards items a user likes. Hence, it is a special form of semi-supervised learning. This is also known as the One-Class problem in Recommender Systems
