@@ -38,6 +38,7 @@ For instance, how do we model:
 * Active Learning: Actively deciding what to learn, and which data to annotate, since human annotators are expensive. 
 * Adaptive Submodularity: How do we mathematically model for diminishing returns? Useful for active learning and diversifying actions.
 * Exploration vs Exploitation: Trading off between exploration to learn for higher future rewards, or exploitation for current rewards. Multi-arm Bandit
+* Counterfactual Reasoning: How to estimate what would happen if we took action a instead of b from b's offline data.
 * Black-Box Learning: How do we learn to optimize a black-box function by querying arbitrary points. Bayesian Optimization
 * Preference Learning: Learning by comparison of what a user prefers instead of the usual independence of does the user like this single training data? Also known as Learning to Rank
 * Curriculum Learning: Creating a learning syllabus so that the model learns from easy to hard problems.
@@ -108,7 +109,7 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Sequential Recommendation: How do we account for time and order of recommendations?
 * Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
 * Active Learning: What should you recommend to learn more about the user for personalized recommendations in future?
-* Offline Evaluation: How do we evaluate recommender systems offline, without access to a real online recommender sytem.
+* Offline Evaluation: How do we evaluate recommender systems offline, without access to a real online recommender sytem. Ideas from Counterfactual Reasoning.
 * Reinforcement Learning Recommendation: Exploration and exploitation trade-offs on recommendation choice to maximize cumulative rewards.
 
 ### Seminal Approaches to Recommender Systems
