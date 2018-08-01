@@ -8,20 +8,16 @@ image: ""
 
 # Teaching Assistant
 * University of Toronto
-    * Software Design and Object Oriented Programming
-    * Java
-
+    * Data Structures and Analysis (Math)
+    * Software Design and Object Oriented Programming (Java)
 
 # Software Engineering Intern
 
 * Google
-    * Concurrency
-    * C++
+    * Concurrency (C++)
 
 * Salesforce
-    * Distributed Systems
-    * Java
+    * Distributed Systems (Java)
 
 * Intel
-    * Web Programming
-    * Python
+    * Web Programming (Python)
