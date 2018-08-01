@@ -49,6 +49,7 @@ For instance, how do we model:
 * Imbalanced Learning: How do we learn about rare labels when our dataset is imbalanced? 
 * Generative Learning: How do we learn to generate realistic data?
 * Ensemble Learning: How do we combine different models together for a single task? 
+* Network Learning: How do we learn from a graph such as social graphs, economic graphs?
 
 Machine Learning research can be broken down into 4 steps: 
 * Step 1: What is the problem? What is the type of data we are working with?
@@ -111,6 +112,7 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Active Learning: What should you recommend to learn more about the user for personalized recommendations in future?
 * Offline Evaluation: How do we evaluate recommender systems offline, without access to a real online recommender sytem. Ideas from Counterfactual Reasoning.
 * Reinforcement Learning Recommendation: Exploration and exploitation trade-offs on recommendation choice to maximize cumulative rewards.
+* Graph Recommendation: Embedding social networks to features to determine similar nodes. 
 
 ### Seminal Approaches to Recommender Systems
 The popular existing approaches to recommender systems are
