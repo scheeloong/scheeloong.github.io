@@ -2,7 +2,7 @@
 id: teach
 name: Teach
 heading: Teach
-subheading: Teach&#58;
+subheading: Teach
 image: ""
 ---
 # Teaching Assistant 

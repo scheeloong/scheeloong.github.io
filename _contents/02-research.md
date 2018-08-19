@@ -2,7 +2,7 @@
 id: research
 name: Research
 heading: Research
-subheading: Research&#58;
+subheading: Research
 image: ""
 ---
 # Research Interest

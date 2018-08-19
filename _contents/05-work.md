@@ -2,7 +2,7 @@
 id: work
 name: Work
 heading: Work
-subheading: Work Experience&#58;
+subheading: Work Experience
 image: ""
 ---
 
