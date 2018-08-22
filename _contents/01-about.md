@@ -20,7 +20,7 @@ subheading: About Me&#58;
 
 # About
 
-I am a first year MASc (Masters of Applied Science, research-based) student at the University of Toronto.
+I am a MASc (Masters of Applied Science, research-based) student at the University of Toronto.
 
 I am a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/).
 
