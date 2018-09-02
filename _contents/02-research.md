@@ -33,7 +33,7 @@ For instance, how do we model:
 * Uncertainty: How do we know if a model is uncertain in its predictions?
 * Signal Processing: How do we decide if an input or data is useful information or noise? Ideas from Signal Detection Theory.
 * Memory: How do we remember or forget information? ideas from Sequential Circuits in Digital Logics, to delayed processing. 
-* Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval
+* Attention: The idea of focusing. Where to focus? When to focus? How long should we focus? Ideas from Information Retrieval. Closely connected to retrieving from memory models.
 * Online Learning: Learn from data sequentially in an online manner, since data may only be available in future. 
 * Active Learning: Actively deciding what to learn, and which data to annotate, since human annotators are expensive. 
 * Adaptive Submodularity: How do we mathematically model for diminishing returns? Useful for active learning and diversifying actions.
