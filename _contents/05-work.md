@@ -8,7 +8,6 @@ image: ""
 
 # Teaching Assistant
 * University of Toronto
-    * Matrix Algebra and Optimization (Math)
     * Data Structures and Analysis (Math)
     * Software Design and Object Oriented Programming (Java)
 
