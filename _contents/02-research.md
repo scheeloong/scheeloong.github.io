@@ -66,11 +66,12 @@ Below are just some examples:
 Machine Learning Models: (not mutually exclusive)
 * Nearest Neighbour, Parametric: (e.g. KMeans) Cluster anything similar.
 * Nearest Neighbour, Non-Parametric: (e.g. KNN) Complexity of decision boundaries grows with data. 
+* Decision Trees: Makes interpretable decisions using greedy splitting algorithm.
 * Kernel Machines, Support Vector Machines: Being as far away from decision boundary as possible.
 * Deep Learning, NN, CNN, RNN: Fire when you detect a useful signal.
 * Multi-armed Bandit: Learning from only the action taken (bandit feedback), and no information from others.
 * Reinforcement Learning: Learning from delayed rewards while planning.
-* Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference.
+* Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference, counterfactual inference
 * Bayesian Nonparametrics, Gaussian Processes: Model complexity grows with data
 * Mixture Models: Symptoms and Observations
 
