@@ -50,6 +50,7 @@ For instance, how do we model:
 * Imbalanced Learning: How do we learn about rare labels when our dataset is imbalanced? 
 * Generative Learning: How do we learn to generate realistic data?
 * Ensemble Learning: How do we combine different models together for a single task? 
+* Boosting: How to sequentially learn from your mistakes? 
 * Network Learning: How do we learn from a graph such as social graphs, economic graphs?
 
 Machine Learning research can be broken down into 4 steps: 
