@@ -161,8 +161,19 @@ Sequential Models
 * MDP
 * RNN for Session Recommendation
 
+Social Models
+* Graph Neural Network for knowledge graph embeddings.
+
 ## MASc Research Direction
-I am currently working with Sequential Active Learning for Personalized Recommender Systems.
+Embedding side information for scalable recommendation.
+Most existing recommender systems are still using traditional 
+matrix factorization. Companies are mainly interested in enhancing 
+these methods with more information, and may not be willing to
+commit to try entire new approaches. 
+My research is in figuring out great ways to incorporate side information
+using embeddings to be used alongside these recommendations. 
+
+Sequential Active Learning for Personalized Recommender Systems.
 * Machine Learning applied to Recommender Systems 
 * Sequential Models
 * Online Learning
@@ -172,8 +183,6 @@ I am currently working with Sequential Active Learning for Personalized Recommen
 * Offline Evaluation
 
 ### Sequential Machine Learning Models
-I am mainly working with sequential active learning. 
-
 Models that works great with sequence should have memory over past observations.
 
 Models with memory:
@@ -233,6 +242,7 @@ Even if we do have access in industry, it is expensive to test on live users.
 Need to be able to evaluate model offline.
 Unlike simulating physics engines in games, it is impossible to simulate real user behavior as we do not know how the brain works.
 Hence, evaluation models offline is a difficult research problem.
+Current approaches uses Counterfactual Analysis.
 
 # Journals
 
