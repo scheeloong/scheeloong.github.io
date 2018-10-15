@@ -51,7 +51,8 @@ For instance, how do we model:
 * Generative Learning: How do we learn to generate realistic data?
 * Ensemble Learning: How do we combine different models together for a single task? 
 * Boosting: How to sequentially learn from your mistakes? 
-* Network Learning: How do we learn from a graph such as social graphs, economic graphs?
+* Manifold Learning: How do we perform non-linear dimensionality reduction? 
+* Geometric Learning: How do we learn from graph datasets such as social graphs, economic graphs, 3D Mesh graph?
 
 Machine Learning research can be broken down into 4 steps: 
 * Step 1: What is the problem? What is the type of data we are working with?
