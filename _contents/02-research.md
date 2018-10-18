@@ -38,6 +38,7 @@ For instance, how do we model:
 * Active Learning: Actively deciding what to learn, and which data to annotate, since human annotators are expensive. 
 * Diminishing Returns: How do we mathematically model for diminishing returns? Useful for active learning and diversity. Adaptive Submodularity, Determinantal Point Processes
 * Cooperation: How do we mathematically model cooperation? Useful for Economies of Scale, relevance. Supermodularity, Ising Models 
+* Positive Feedback: How do we model positive feedback or self-exciting events such as earthquakes and financial analysis? Hawkes Processes
 * Exploration vs Exploitation: Trading off between exploration to learn for higher future rewards, or exploitation for current rewards. Multi-arm Bandit
 * Counterfactual Reasoning: How to estimate what would happen if we took action a instead of b from b's offline data.
 * Black-Box Learning: How do we learn to optimize a black-box function by querying arbitrary points. Bayesian Optimization
