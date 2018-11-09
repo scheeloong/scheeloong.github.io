@@ -32,4 +32,4 @@ Published a [paper](https://link.springer.com/article/10.1007/s10601-016-9238-x)
 
 Final year research group capstone project under the supervision of [Professor Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/).
 
-More information on my projects in undergraduate [here](http://www.sooncheeloong.com).
+More information on my projects in undergraduate [here](http://scheeloong.github.io/undergraduate/)
