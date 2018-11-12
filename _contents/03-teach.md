@@ -7,6 +7,8 @@ image: ""
 ---
 # Teaching Assistant 
 
+Awarded $500 for MIE Teaching Assistant Award for the 2017-2018 year. 
+
 Median Rating: 5.0/5.0 (60 anonymous student surveys) => Mode Rating = 5.0
 * [CSC263 Summer 2018: Data Structures and Analysis](http://www.teach.cs.toronto.edu/~rchen/csc263/)
 * [CSC207 Fall 2017 - Winter 2018: Software Design](http://www.teach.cs.toronto.edu/~csc207h/fall/labs.shtml) 
