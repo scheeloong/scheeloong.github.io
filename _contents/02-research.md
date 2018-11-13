@@ -250,6 +250,10 @@ Current approaches uses Counterfactual Analysis.
 
 * [ℚ-bounds consistency for the spread constraint with variable mean](https://link.springer.com/article/10.1007/s10601-016-9238-x)
 
+# Preprints 
+* [Noise Contrastive Estimation for Scalable Linear Models for One-Class Collaborative Filtering
+](https://arxiv.org/abs/1811.00697)
+
 I enjoy working with applied math and code. 
 
 * [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
