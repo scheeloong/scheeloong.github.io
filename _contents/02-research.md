@@ -76,6 +76,8 @@ Machine Learning Models: (not mutually exclusive)
 * Multi-armed Bandit: Learning from only the action taken (bandit feedback), and no information from others.
 * Reinforcement Learning: Learning from delayed rewards while planning.
 * Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference, counterfactual inference
+* Gaussian Models: Modelling real numbers linearly, 
+* Linear Gaussian Models, QDA, LDA, PCA, FA, Kalman Filter: Modelling real numbers linearly.
 * Bayesian Nonparametrics, Gaussian Processes: Model complexity grows with data
 * Mixture Models: Symptoms and Observations
 
