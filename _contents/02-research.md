@@ -78,6 +78,7 @@ Machine Learning Models: (not mutually exclusive)
 * Probabilistic Graphical Models, BN, HMM, CRF: Ability to perform inference, counterfactual inference
 * Gaussian Models: Modelling real numbers linearly, 
 * Linear Gaussian Models, QDA, LDA, PCA, FA, Kalman Filter: Modelling real numbers linearly.
+* Dirichlet Models, Latent Dirichlet Allocation: Modelling multinomials
 * Bayesian Nonparametrics, Gaussian Processes: Model complexity grows with data
 * Mixture Models: Symptoms and Observations
 
