@@ -119,8 +119,8 @@ Within recommender systems itself, there are many interesting problems to tackle
 * Session-Based Recommendation: How do we recommend in a sequence within a short browsing session?
 * Active Learning: What should you recommend to learn more about the user for personalized recommendations in future?
 * Offline Evaluation: How do we evaluate recommender systems offline, without access to a real online recommender sytem. Ideas from Counterfactual Reasoning.
-* Reinforcement Learning Recommendation: Exploration and exploitation trade-offs on recommendation choice to maximize cumulative rewards.
-* Graph Recommendation: Embedding social networks to features to determine similar nodes. 
+* Bandit Recommenders: Recommend based on dynamically changing popular items such as News Recommenders.
+* Graph Recommenders: Embedding social networks to features to determine similar nodes.
 
 ### Seminal Approaches to Recommender Systems
 The popular existing approaches to recommender systems are
@@ -163,8 +163,11 @@ Image Models
 * CNN for Image Embedding
 
 Sequential Models
-* MDP
-* RNN for Session Recommendation
+* Markov Chain (FPMC) 
+* RNN for Session Recommendation (GRU4Rec)
+
+Bandit Models
+* LinUCB
 
 Social Models
 * Graph Neural Network for knowledge graph embeddings.
