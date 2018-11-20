@@ -102,6 +102,7 @@ Machine Learning Applications:
 * Healthcare: Clinical Trials (which drug to test for effectiveness) 
 * Dynamic Pricing: (trying out which price will earn the most revenue)
 * Portfolio Management:  which company and how much investment to make
+* Aerial Image Labelling: Google Maps, Crowd AI, Orbital Insight
 
 ### Problems in Recommender Systems
 Within recommender systems itself, there are many interesting problems to tackle.
