@@ -255,7 +255,7 @@ Current approaches uses Counterfactual Analysis.
 
 # Talks
 
-* [Recommender Systems: Motivations, Challenges and Seminal Works](./pdf/RecommenderSystemMotivationChallengesSeminalWorks.pdf)
+* [UTMIST Academic Talk Series 2018: Recommender Systems: Motivations, Challenges and Seminal Works](./pdf/RecommenderSystemMotivationChallengesSeminalWorks.pdf)
 
 # Journals
 
