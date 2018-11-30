@@ -253,6 +253,11 @@ Unlike simulating physics engines in games, it is impossible to simulate real us
 Hence, evaluation models offline is a difficult research problem.
 Current approaches uses Counterfactual Analysis.
 
+# Talks
+
+
+* [Recommender Systems: Motivations, Challenges and Seminal Works](www.google.com) : [Invited: UTMIST Academic Talk Series](http://utmist.sa.utoronto.ca/)
+
 # Journals
 
 * [ℚ-bounds consistency for the spread constraint with variable mean](https://link.springer.com/article/10.1007/s10601-016-9238-x)
@@ -264,4 +269,3 @@ Current approaches uses Counterfactual Analysis.
 I enjoy working with applied math and code. 
 
 * [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
-
