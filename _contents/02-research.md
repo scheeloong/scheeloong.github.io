@@ -54,6 +54,8 @@ For instance, how do we model:
 * Boosting: How to sequentially learn from your mistakes? 
 * Manifold Learning: How do we perform non-linear dimensionality reduction? 
 * Geometric Learning: How do we learn from graph datasets such as social graphs, economic graphs, 3D Mesh graph?
+* Security Machine Learning: How to learn models that are robust towards adversaries nor reveal personal information? 
+* Fairness Machine Learning: How to learn models that are unbiased towards discriminatory features? 
 
 Machine Learning research can be broken down into 4 steps: 
 * Step 1: What is the problem? What is the type of data we are working with?
