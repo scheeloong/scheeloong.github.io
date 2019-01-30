@@ -8,6 +8,8 @@ image: ""
 
 # Teaching Assistant
 * University of Toronto
+    * Computer Graphics (C++)
+    * Computer Organization (Verilog)
     * Data Structures and Analysis (Math)
     * Software Design and Object Oriented Programming (Java)
 
