@@ -11,15 +11,15 @@ I am curious about our intelligent ability to learn.
 
 Artificial Intelligence Branches:
 * Machine Learning: How do machines learn?
-* Evolutionary Intelligence: Natural Selection of machines
-* Swarm Intelligence: How do machines learn as a society of groups?
 * Natural Language Processing: How do machines read? 
 * Computer Vision: How do machines see? (2D -> Computer Vision -> 3D) 
+* Computer Graphics: How do machines imagine? Inverse of Computer Vision (opposite of seeing) (3D -> Computer Graphics -> 2D) 
 * Speech Processing: How do machines hear?
 * Robotics: How do machines move? How do machines localize itself to know where it is in the world?
-* Constraint Satisfaction Problem: How do machines plan? 
+* Evolutionary Intelligence: Natural Selection of machines
+* Swarm Intelligence: How do machines learn as a society of groups?
+* Constraint Satisfaction Problem: How do machines plan? (Assuming it already learns everything from the world, how does it intelligently makes decisions)
 * Knowledge Representation: How do machines represent knowledge and logically reason from it? 
-* Computer Graphics: How do machines imagine? Inverse of Computer Vision (opposite of seeing) (3D -> Computer Graphics -> 2D) 
 
 I am passionate about Artificial Intelligence, especially Machine Learning, as it helps me understand how learning works.
 
