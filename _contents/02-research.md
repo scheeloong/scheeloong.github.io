@@ -7,7 +7,7 @@ image: ""
 ---
 # Research Interest
 
-I am curious about our intelligent ability to learn.
+I am curious about our intelligent ability to learn. 
 
 Artificial Intelligence Branches:
 * Machine Learning: How do machines learn?
@@ -18,7 +18,7 @@ Artificial Intelligence Branches:
 * Robotics: How do machines move? How do machines localize itself to know where it is in the world?
 * Evolutionary Intelligence: Natural Selection of machines
 * Swarm Intelligence: How do machines learn as a society of groups?
-* Constraint Satisfaction Problem: How do machines plan? (Assuming it already learns everything from the world, how does it intelligently makes decisions)
+* Constraint Satisfaction Problem: How do machines plan? (Assuming it already learns everything from the world, how does it intelligently reasons and makes decisions)
 * Knowledge Representation: How do machines represent knowledge and logically reason from it? 
 
 I am passionate about Artificial Intelligence, especially Machine Learning, as it helps me understand how learning works.
