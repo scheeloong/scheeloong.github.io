@@ -265,7 +265,7 @@ Current approaches uses Counterfactual Analysis.
 
 # Preprints 
 * [Noise Contrastive Estimation for Scalable Linear Models for One-Class Collaborative Filtering
-](https://arxiv.org/abs/1811.00697) (SIGIR, 2019, (84/426, 20% acceptance))
+](https://arxiv.org/abs/1811.00697) (SIGIR, 2019) (84/426, 20% acceptance)
 
 I enjoy working with applied math and code. 
 
