@@ -266,5 +266,6 @@ Current approaches uses Counterfactual Analysis.
 * Noise Contrastive Estimation for One-Class Collaborative Filtering. Wu, G.; Volkovs, M.; **Soon, C. L.**; Sanner, S.; and Rai, H. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-19), Paris, France, 2019 [[pdf]](https://arxiv.org/abs/1811.00697) (84/426, 20% acceptance)
 
 I enjoy working with applied math and code. 
+My goal is to create useful knowledge and build great products.
 
 * [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
