@@ -7,6 +7,8 @@ image: ""
 ---
 # Research Interest
 
+* [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
+
 I am curious about our intelligent ability to learn. 
 
 Artificial Intelligence Branches:
@@ -255,14 +257,12 @@ Unlike simulating physics engines in games, it is impossible to simulate real us
 Hence, evaluation models offline is a difficult research problem.
 Current approaches uses Counterfactual Analysis.
 
-# Talks
-
-* [UTMIST Academic Talk Series 2018: Recommender Systems: Motivations, Challenges and Seminal Works](./pdf/RecommenderSystemMotivationChallengesSeminalWorks.pdf)
+# Conferences
+* Noise Contrastive Estimation for One-Class Collaborative Filtering. Wu, G.; Volkovs, M.; **Soon, C. L.**; Sanner, S.; and Rai, H. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-19), Paris, France, 2019 [[pdf]](https://arxiv.org/abs/1811.00697) (84/426, 20% acceptance)
 
 # Journals
 * **Loong, S.C.**, Ku, W.Y. and Beck, J.C., 2016. ℚ-bounds consistency for the spread constraint with variable mean. Constraints, 21(4), pp.646-652. [[pdf]](https://link.springer.com/article/10.1007/s10601-016-9238-x)
 
-# Conferences
-* Noise Contrastive Estimation for One-Class Collaborative Filtering. Wu, G.; Volkovs, M.; **Soon, C. L.**; Sanner, S.; and Rai, H. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-19), Paris, France, 2019 [[pdf]](https://arxiv.org/abs/1811.00697) (84/426, 20% acceptance)
+# Talks
+* [UTMIST Academic Talk Series 2018: Recommender Systems: Motivations, Challenges and Seminal Works](./pdf/RecommenderSystemMotivationChallengesSeminalWorks.pdf)
 
-* [Statement Of Purpose Fall 2016](./pdf/statementOfPurposeUofTMIE.pdf)
