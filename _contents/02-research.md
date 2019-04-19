@@ -260,12 +260,10 @@ Current approaches uses Counterfactual Analysis.
 * [UTMIST Academic Talk Series 2018: Recommender Systems: Motivations, Challenges and Seminal Works](./pdf/RecommenderSystemMotivationChallengesSeminalWorks.pdf)
 
 # Journals
+* **Loong, S.C.**, Ku, W.Y. and Beck, J.C., 2016. ℚ-bounds consistency for the spread constraint with variable mean. Constraints, 21(4), pp.646-652. [[pdf]](https://link.springer.com/article/10.1007/s10601-016-9238-x)
 
-* [ℚ-bounds consistency for the spread constraint with variable mean](https://link.springer.com/article/10.1007/s10601-016-9238-x)
-
-# Preprints 
-* [Noise Contrastive Estimation for Scalable Linear Models for One-Class Collaborative Filtering
-](https://arxiv.org/abs/1811.00697) (SIGIR, 2019) (84/426, 20% acceptance)
+# Conferences
+* Noise Contrastive Estimation for One-Class Collaborative Filtering. Wu, G.; Volkovs, M.; **Soon, C. L.**; Sanner, S.; and Rai, H. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-19), Paris, France, 2019 [[pdf]](https://arxiv.org/abs/1811.00697) (84/426, 20% acceptance)
 
 I enjoy working with applied math and code. 
 
