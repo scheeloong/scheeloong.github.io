@@ -24,6 +24,10 @@ I am a MASc (Masters of Applied Science, research-based) student at the Universi
 
 I am a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/).
 
+I enjoy working with applied math and code. 
+
+My goal is to create useful knowledge and build products that customers love.
+
 # Undergraduate 
 
 During my undergraduate, I have done Software Engineering Internships at Google, Salesforce, Intel. 
