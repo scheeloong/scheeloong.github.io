@@ -258,7 +258,9 @@ Hence, evaluation models offline is a difficult research problem.
 Current approaches uses Counterfactual Analysis.
 
 # Conferences
-* Noise Contrastive Estimation for One-Class Collaborative Filtering. Wu, G.; Volkovs, M.; **Soon, C. L.**; Sanner, S.; and Rai, H. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-19), Paris, France, 2019 [[pdf]](https://arxiv.org/abs/1811.00697) (84/426, 20% acceptance)
+
+## Full Papers
+* Noise Contrastive Estimation for One-Class Collaborative Filtering. Wu, G.; Volkovs, M.; **Soon, C. L.**; Sanner, S.; and Rai, H. In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-19), Paris, France, 2019 [[pdf]](https://arxiv.org/abs/1811.00697) (84/426, 20% acceptance, ORAL)
 
 # Journals
 * **Loong, S.C.**, Ku, W.Y. and Beck, J.C., 2016. ℚ-bounds consistency for the spread constraint with variable mean. Constraints, 21(4), pp.646-652. [[pdf]](https://link.springer.com/article/10.1007/s10601-016-9238-x)
