@@ -26,7 +26,7 @@ I am a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.uto
 
 I enjoy working with applied math and code. 
 
-My goal is to create useful knowledge and build products that customers love.
+My goal is to create useful knowledge while building innovative products that customer love.
 
 # Undergraduate 
 
