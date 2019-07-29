@@ -24,7 +24,7 @@ I am a MASc (Masters of Applied Science, research-based) student at the Universi
 
 I am a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/).
 
-I enjoy working with applied math and code. 
+I enjoy working with applied math and code. My career focuses on Applied Machine Learning and Distributed Systems. 
 
 My goal is to create useful knowledge while building innovative products that customer love.
 
