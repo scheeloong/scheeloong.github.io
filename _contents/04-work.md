@@ -6,6 +6,10 @@ subheading: Work Experience
 image: ""
 ---
 
+# Associate Researcher
+* Huawei 
+    * Computer Vision (C++, Python, Java)
+
 # Teaching Assistant
 * University of Toronto
     * Computer Graphics (C++)
