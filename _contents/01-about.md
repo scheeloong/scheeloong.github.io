@@ -5,7 +5,7 @@ heading: About Me
 subheading: About Me&#58; 
 ---
 <!-- <img src="images/pic.png" alt="hi" class="inline"/> -->
-<img src="images/soonCheeLoongTCard.jpg" alt="hi" class="inline"/> 
+<!-- <img src="images/soonCheeLoongTCard.jpg" alt="hi" class="inline"/>  -->
 
 
 # Education 
