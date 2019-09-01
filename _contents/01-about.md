@@ -7,28 +7,31 @@ subheading: About Me&#58;
 <!-- <img src="images/pic.png" alt="hi" class="inline"/> -->
 <!-- <img src="images/soonCheeLoongTCard.jpg" alt="hi" class="inline"/>  -->
 
-
 # Education 
 
 **Name:** [Soon Chee Loong](http://scheeloong.github.io)
 
 **Email:** cheeloong.soonatmaildotutorontodotca 
 
-**Undergraduate:**  BASc Computer Engineering 2017
+**Undergraduate:**  Bachelor of Applied Science (BASc) Computer Engineering 2017
 
-**Graduate:**  MASc Industrial Engineering 2019 (expected)
-
-* Deep Recommender Systems
+**Graduate:**  Masters of Applied Science (MASc) Industrial Engineering 2019 
 
 # About
 
-I am a MASc (Masters of Applied Science, research-based) student at the University of Toronto.
-
-I am a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/).
+I am currently an Associate Researcher, Computer Vision at Huawei Technologies [Noah Arks Lab](http://www.noahlab.com.hk/#/home) in Toronto.
 
 I enjoy working with applied math and code. 
 
-My career focuses on Applied Machine Learning and Distributed Systems. 
+My career focuses on Applied Machine Learning and Distributed Systems.
+
+# Graduate (Masters)
+
+I was a MASc (Masters of Applied Science, research-based) student at the University of Toronto.
+
+I was a member of the [Data Driven Decision Making Laboratory](http://d3m.mie.utoronto.ca/members/). 
+
+My research focused on Deep Graph Embeddings in Recommender Systems.
 
 # Undergraduate 
 
