@@ -267,4 +267,6 @@ Current approaches uses Counterfactual Analysis.
 
 ## Talks
 * [UTMIST Academic Talk Series 2018: Recommender Systems: Motivations, Challenges and Seminal Works](./pdf/RecommenderSystemMotivationChallengesSeminalWorks.pdf)
+* [MASc Thesis Defense Presentation: Deep Graph Embeddings in Recommender Systems](./pdf/MAScThesisDefensePresentationSoonCheeLoong.pdf)
+
 
