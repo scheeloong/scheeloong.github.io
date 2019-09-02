@@ -265,7 +265,7 @@ Current approaches uses Counterfactual Analysis.
 ## Journals
 * **Loong, S.C.**, Ku, W.Y. and Beck, J.C., 2016. ℚ-bounds consistency for the spread constraint with variable mean. Constraints, 21(4), pp.646-652. [[pdf]](https://link.springer.com/article/10.1007/s10601-016-9238-x)
 
-## Master of Applied Science Thesis
+## Thesis
 * Deep Graph Embeddings in Recommender Systems. [[pdf]](./pdf/Soon_Chee_Loong_201911_MAS_thesis.pdf)
 
 ## Talks
