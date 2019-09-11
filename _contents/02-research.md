@@ -23,6 +23,7 @@ Artificial Intelligence Branches:
 * Constraint Satisfaction Problem: How do machines plan? (Assuming it already learns everything from the world, how does it intelligently reasons and makes decisions)
 * Knowledge Representation: How do machines represent knowledge and logically reason from it? 
 
+<!--
 I am passionate about Artificial Intelligence, especially Machine Learning, as it helps me understand how learning works.
 
 For instance, how do we model:
@@ -256,6 +257,7 @@ Need to be able to evaluate model offline.
 Unlike simulating physics engines in games, it is impossible to simulate real user behavior as we do not know how the brain works.
 Hence, evaluation models offline is a difficult research problem.
 Current approaches uses Counterfactual Analysis.
+-->
 
 ## Conferences
 
