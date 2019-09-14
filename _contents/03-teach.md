@@ -17,6 +17,7 @@ Median Rating: 5.0/5.0 (60 anonymous student surveys) => Mode Rating = 5.0
 * [MIE250 Fall 2017: Fundamentals of Object Oriented Programming](https://github.com/MIE250-2017)
 
 <!--
+Just link to your personal tutoring site for now: that site links to everything else.
 # Online Courses
 
 * [SoonTeachDeepLearning](https://scheeloong.github.io/SoonTeachDeepLearning)  (TODO)
