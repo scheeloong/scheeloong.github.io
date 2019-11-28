@@ -269,9 +269,6 @@ Current approaches uses Counterfactual Analysis.
 
 ## Thesis
 * Deep Graph Embeddings in Recommender Systems. [[pdf]](https://tspace.library.utoronto.ca/handle/1807/98377)
-<!--
-* Deep Graph Embeddings in Recommender Systems. [[pdf]](./pdf/Soon_Chee_Loong_201911_MAS_thesis.pdf)
--->
 
 ## Talks
 * [UTMIST Academic Talk Series 2018: Recommender Systems: Motivations, Challenges and Seminal Works](./pdf/RecommenderSystemMotivationChallengesSeminalWorks.pdf)
