@@ -1,6 +1,4 @@
 # scheeloong.github.io
-Website
-
 sudo gem install jekyll
 
 sudo gem install bundler
