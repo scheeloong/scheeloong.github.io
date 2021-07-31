@@ -19,10 +19,6 @@ subheading: About Me&#58;
 
 # About
 
-I currently work as a Associate Researcher, Computer Vision at Huawei Technologies [Noah Arks Lab](http://www.noahlab.com.hk/#/home) in Toronto.
-
-My current project is: Real-time Video Understanding for Mobile.
-
 I enjoy working with applied math and code. 
 
 My career focuses on Applied Machine Learning and Distributed Systems.
