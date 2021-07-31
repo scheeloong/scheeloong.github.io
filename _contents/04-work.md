@@ -6,6 +6,11 @@ subheading: Work Experience
 image: ""
 ---
 
+# Software Engineer
+
+* Amazon Web Services
+    * Distributed Systems (Java)
+
 # Associate Researcher
 * Huawei 
     * Computer Vision (C++, Python, Java)
