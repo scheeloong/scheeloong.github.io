@@ -11,7 +11,7 @@ subheading: About Me&#58;
 
 **Name:** [Soon Chee Loong](http://scheeloong.github.io)
 
-**Email:** cheeloong<dot>soon<at>alumni<dot>utoronto<dot>ca (replace "<dot>" with '.' and "<at>" with '@')
+**Email:** cheeloongDOTsoonATalumniDOTutorontoDOTca (replace "DOT" with '.' and "AT" with '@')
 
 **Undergraduate:**  Bachelor of Applied Science (BASc) Computer Engineering 2017
 
